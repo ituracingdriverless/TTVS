@@ -6,7 +6,7 @@
 ![Amount of labeled Görüntü 0](https://img.shields.io/badge/Görüntü-0-blue.svg)
 ![Amount of labeled Levha 0](https://img.shields.io/badge/Levha-0-blue.svg)
 
-Proje dökümantasyonu:
+Proje dökümantasyonu: https://ituracingdriverless.github.io/TRLV/
 
 ## Verisetine nasıl erişebilirim?
 Bu verisetine erişebilmek için en az 500 adet görüntüyü etiketlemeniz gerekmektedir. Bu şekilde verisetimizin doğal bir şekilde büyümesini sağlıyoruz.
