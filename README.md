@@ -24,7 +24,7 @@ Merak etmeyin, levha satın almanıza gerek yok. Google Haritalar üzerinden tü
 1. Tüm etiket dosyalarını forkladığınız depoya yükleyin.
     1. Etiketleriniz sınıf (class) isimleri yerine indis kullanıyorsa lütfen bunu belirtin: Örnek olarak `etiketler/ituracing` dizinine bakabilirsiniz.
     
-1. [documentation] üzerinde gerekli güncellemeleri yapın. (https://ituracing.github.io/TRLV/)
+1. [documentation] üzerinde gerekli güncellemeleri yapın. (https://ituracingdriverless.github.io/TRLV/)
 1. Pull request açın.
 
 <h2>Eklediğiniz görüntüler ve etiketler gözden geçirildikten sonra <b>verisetinin tamamına</b> erişiminiz sağlanacaktır.</h2>
