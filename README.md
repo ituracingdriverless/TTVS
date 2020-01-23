@@ -27,5 +27,5 @@ Merak etmeyin, levha satın almanıza gerek yok. Google Haritalar üzerinden tü
 1. [documentation] üzerinde gerekli güncellemeleri yapın. (https://ituracingdriverless.github.io/TRLV/)
 1. Pull request açın.
 
-<h2>Eklediğiniz görüntüler ve etiketler gözden geçirildikten sonra <b>verisetinin tamamına</b> erişiminiz sağlanacaktır.</h2>
+<h4>Eklediğiniz görüntüler ve etiketler gözden geçirildikten sonra <b>verisetinin tamamına</b> erişiminiz sağlanacaktır.</h4>
 
