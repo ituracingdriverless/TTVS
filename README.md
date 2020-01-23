@@ -17,7 +17,7 @@ Merak etmeyin, levha satın almanıza gerek yok. Google Haritalar üzerinden tü
 
 ## Verisetine nasıl katkıda bulunurum?
 
-1. [Mail ile iletişime geçin](mailto:levhaTR@gmail.com): levhaTR@gmail.com
+1. [Mail ile iletişime geçin](mailto:ituracingdriverless@gmail.com): ituracingdriverless@gmail.com
 1. Etiketlediğiniz görüntüleri sizin ile paylaştığımız Google Fotoğraflar albümüne ekleyin
     1. `Ayarlar` kısmında `Yüksek Kalite` seçin.
 1. Bu depoyu (repository) forklayın.
