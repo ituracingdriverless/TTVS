@@ -1,5 +1,5 @@
 # TRLV
-<small> Trafik Levha Veriseti </small> <br>
+<small> Trafik İşaretleri Veriseti </small> <br>
 <sub> <i> Veriseti paylaştıkça çoğalır! </i></sub>
 
 ![Amount of Katılımcı 0](https://img.shields.io/badge/Katılımcı-0-green.svg)
