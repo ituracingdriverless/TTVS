@@ -4,7 +4,7 @@
 
 ![Amount of Katılımcı 0](https://img.shields.io/badge/Katılımcı-0-green.svg)
 ![Amount of labeled Görüntü 0](https://img.shields.io/badge/Görüntü-0-blue.svg)
-![Amount of labeled Trafik İşareti 0](https://img.shields.io/badge/Trafik-İşareti-0-blue.svg)
+![Amount of labeled Trafik-İşareti 0](https://img.shields.io/badge/Trafik-İşareti-0-blue.svg)
 
 Proje dökümantasyonu: https://ituracingdriverless.github.io/DRLV/
 
