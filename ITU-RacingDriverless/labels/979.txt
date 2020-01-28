@@ -1,0 +1,2 @@
+parkYasak,733,193,752,212
+solaDonulmez,144,226,59,143

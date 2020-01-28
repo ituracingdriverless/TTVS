@@ -1,0 +1,2 @@
+girilmez,474,87,631,240
+tasitGiremez,320,334,525,530

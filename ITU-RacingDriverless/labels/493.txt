@@ -1,0 +1,2 @@
+solaDonulmez,152,151,170,169
+trafikIsigi,90,91,109,136

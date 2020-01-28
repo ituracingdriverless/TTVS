@@ -1,0 +1,2 @@
+parkYasak,822,225,874,280
+tasitGiremez,669,145,794,280

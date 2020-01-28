@@ -1,0 +1,2 @@
+sagaDonulmez,309,241,320,265
+solaDonulmez,304,214,334,240
