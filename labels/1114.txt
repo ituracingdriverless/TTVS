@@ -1,0 +1,2 @@
+trafikIsigi,305,78,342,161
+tasitGiremez,1300,93,1333,130

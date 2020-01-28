@@ -1,0 +1,3 @@
+sagaDonulmez,79,211,113,243
+dur,81,145,119,177
+solaDonulmez,78,179,115,211

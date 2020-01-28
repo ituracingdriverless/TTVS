@@ -1,0 +1,2 @@
+sagaDonulmez,238,127,332,231
+trafikIsigi,354,2,405,138

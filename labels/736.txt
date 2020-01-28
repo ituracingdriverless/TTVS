@@ -1,0 +1,2 @@
+solaDonulmez,60,170,124,234
+girilmez,62,235,121,295
