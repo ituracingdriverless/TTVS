@@ -1,6 +1,6 @@
 ## ITU Racing Trafik Levha ve Trafik Işığı Veriseti
 
-Verisetimizin etiketleri aşağıdaki şekildedir:
+Verisetimizin etiketleri aşağıdaki şekildedir,  `labels` dizininde bulunabilir:
 
 1. dur
 2. durak
