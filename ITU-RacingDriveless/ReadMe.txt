@@ -1,6 +1,6 @@
-# ITU Racing Trafik Levha ve Trafik Işığı veri seti
+# ITU Racing Trafik Levha ve Trafik Işığı veriseti
 
-Veri setimizin labelleri aşşağıdaki şekildedir:
+Verisetimizin labelleri aşağıdaki şekildedir:
 1- dur
 2- durak
 3- sagaDonulmez
@@ -11,7 +11,7 @@ Veri setimizin labelleri aşşağıdaki şekildedir:
 8- park
 9- trafikIsigi
 
-Yolo için uygun formattaki etiketler yolo dosyası içerisindedir. Etiketler aşşağıdaki şekildedir.
+Yolo için uygun formattaki etiketler yolo dosyası içerisindedir. Etiketler aşağıdaki şekildedir.
 1- dur = 0
 2- durak = 1
 3- sagaDonulmez = 2
