@@ -19,7 +19,7 @@ Merak etmeyin, levha satın almanıza gerek yok. Google Haritalar üzerinden tü
 1. Etiketlediğiniz görüntüleri sizin ile paylaştığımız Google Fotoğraflar albümüne ekleyin. Görüntüler zip formatında paylaşılabilir.
 1. Bu depoyu (repository) forklayın.
 1. Tüm etiket dosyalarını forkladığınız depoya yükleyin.
-    1. Etiketleriniz sınıf (class) isimleri yerine indis kullanıyorsa lütfen bunu belirtin: Örnek olarak `etiketler/itu_racing` dizinine bakabilirsiniz.
+    1. Etiketleriniz sınıf (class) isimleri yerine indis kullanıyorsa lütfen bunu belirtin: Örnek olarak `ITU-RacingDriverless` dizinine bakabilirsiniz.
     
 1. Pull request açın.
 
