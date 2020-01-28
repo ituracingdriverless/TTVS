@@ -1,4 +1,4 @@
-# TTVS (Turkiye Trafik Veri Seti)
+# TTVS (Türkiye Trafik Veriseti)
 <small> Trafik İşaretleri Veriseti </small> <br>
 <sub> <i> Veriseti paylaştıkça çoğalır! </i></sub>
 
