@@ -2,8 +2,8 @@
 <small> Trafik İşaretleri Veriseti </small> <br>
 <sub> <i> Veriseti paylaştıkça çoğalır! </i></sub>
 
-![Amount of Katılımcı 1](https://img.shields.io/badge/Katılımcı-0-green.svg)
-![Amount of labeled Görüntü 1264](https://img.shields.io/badge/Görüntü-0-blue.svg)
+![Amount of Katılımcı 1](https://img.shields.io/badge/Katılımcı-1-green.svg)
+![Amount of labeled Görüntü 1264](https://img.shields.io/badge/Görüntü-1264-blue.svg)
 
 ## Verisetine nasıl erişebilirim?
 Bu verisetine erişebilmek için en az 500 adet görüntüyü etiketlemeniz gerekmektedir. Bu şekilde verisetimizin doğal bir şekilde büyümesini sağlıyoruz.
