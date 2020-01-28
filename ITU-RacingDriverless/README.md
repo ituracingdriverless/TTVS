@@ -1,6 +1,6 @@
 ## ITU Racing Trafik Levha ve Trafik Işığı veriseti
 
-Verisetimizin labelleri aşağıdaki şekildedir:
+Verisetimizin etiketleri aşağıdaki şekildedir:
 
 1. dur
 2. durak
@@ -12,7 +12,7 @@ Verisetimizin labelleri aşağıdaki şekildedir:
 8. park
 9. trafikIsigi
 
-Yolo için uygun formattaki etiketler `yoloLabels` dosyası içerisindedir. Etiketler aşağıdaki şekildedir:
+YOLO için uygun formattaki etiketler `yoloLabels` dosyası içerisindedir. Etiketler aşağıdaki şekildedir:
 
 0. dur
 1. durak
