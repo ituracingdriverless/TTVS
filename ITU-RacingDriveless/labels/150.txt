@@ -1,3 +1,0 @@
-girilmez,584,111,613,138
-tasitGiremez,846,105,876,138
-trafikIsigi,629,90,641,121

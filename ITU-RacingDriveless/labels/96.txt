@@ -1,4 +1,0 @@
-trafikIsigi,902,240,929,289
-trafikIsigi,1215,333,1248,373
-trafikIsigi,761,253,776,283
-trafikIsigi,176,360,194,380

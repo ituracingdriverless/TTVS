@@ -1,6 +1,0 @@
-trafikIsigi,721,335,736,360
-trafikIsigi,800,362,812,387
-trafikIsigi,807,314,819,332
-trafikIsigi,872,327,884,345
-trafikIsigi,945,362,957,380
-trafikIsigi,1096,349,1111,380
