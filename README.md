@@ -6,8 +6,6 @@
 ![Amount of labeled Görüntü 0](https://img.shields.io/badge/Görüntü-0-blue.svg)
 ![Amount of labeled Trafik-İşareti 0](https://img.shields.io/badge/Trafikİşareti-0-blue.svg)
 
-Proje dökümantasyonu: https://ituracingdriverless.github.io/DRLV/
-
 ## Verisetine nasıl erişebilirim?
 Bu verisetine erişebilmek için en az 500 adet görüntüyü etiketlemeniz gerekmektedir. Bu şekilde verisetimizin doğal bir şekilde büyümesini sağlıyoruz.
 
@@ -24,7 +22,6 @@ Merak etmeyin, levha satın almanıza gerek yok. Google Haritalar üzerinden tü
 1. Tüm etiket dosyalarını forkladığınız depoya yükleyin.
     1. Etiketleriniz sınıf (class) isimleri yerine indis kullanıyorsa lütfen bunu belirtin: Örnek olarak `etiketler/itu_racing` dizinine bakabilirsiniz.
     
-1. [documentation] üzerinde gerekli güncellemeleri yapın. (https://ituracingdriverless.github.io/DRLV/)
 1. Pull request açın.
 
 <h4>Eklediğiniz görüntüler ve etiketler gözden geçirildikten sonra <b>verisetinin tamamına</b> erişiminiz sağlanacaktır.</h4>
