@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Part1</folder>
+	<filename>374.png</filename>
+	<path>/home/sevval/Desktop/Part1/374.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hiz sinirlamasi sonu (20 km/saat)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>343</xmin>
+			<ymin>203</ymin>
+			<xmax>416</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ileriden saga mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>526</xmin>
+			<ymin>319</ymin>
+			<xmax>558</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tasit trafigine kapali yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1080</xmin>
+			<ymin>355</ymin>
+			<xmax>1103</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Giris olmayan yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>694</xmin>
+			<ymin>365</ymin>
+			<xmax>713</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

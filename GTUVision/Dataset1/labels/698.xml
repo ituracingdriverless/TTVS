@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part2</folder>
+	<filename>698.png</filename>
+	<path>C:\Users\Acer\Desktop\Part2\698.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Park yeri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1113</xmin>
+			<ymin>164</ymin>
+			<xmax>1209</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>695</xmin>
+			<ymin>371</ymin>
+			<xmax>720</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>

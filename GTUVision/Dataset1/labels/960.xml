@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part3</folder>
+	<filename>960.png</filename>
+	<path>C:\Users\Acer\Desktop\Part3\960.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Durak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>973</xmin>
+			<ymin>250</ymin>
+			<xmax>1045</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ileriden sola mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>771</xmin>
+			<ymin>344</ymin>
+			<xmax>799</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

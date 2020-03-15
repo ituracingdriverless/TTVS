@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part7_Alperen</folder>
+	<filename>13795.png</filename>
+	<path>C:\Users\ahmet.alperen.bulut\Desktop\Part7_Alperen\13795.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Durak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>200</ymin>
+			<xmax>192</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Giris olmayan yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>251</ymin>
+			<xmax>71</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

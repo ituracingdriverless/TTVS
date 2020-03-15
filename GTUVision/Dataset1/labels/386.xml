@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Part2</folder>
+	<filename>386.png</filename>
+	<path>C:\Users\Acer\Desktop\Part2\386.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ileriden saga mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>480</xmin>
+			<ymin>284</ymin>
+			<xmax>525</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tasit trafigine kapali yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1193</xmin>
+			<ymin>335</ymin>
+			<xmax>1223</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Giris olmayan yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>708</xmin>
+			<ymin>353</ymin>
+			<xmax>735</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>

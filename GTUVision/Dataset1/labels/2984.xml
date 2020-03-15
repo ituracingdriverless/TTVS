@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part8</folder>
+	<filename>2984.png</filename>
+	<path>C:\Users\Acer\Desktop\Part8-20190906T114741Z-001\Part8\2984.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Park etmek yasaktir</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>331</xmin>
+			<ymin>208</ymin>
+			<xmax>413</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ileri ve sola mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>773</xmin>
+			<ymin>332</ymin>
+			<xmax>815</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>

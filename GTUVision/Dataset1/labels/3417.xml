@@ -1,0 +1,38 @@
+<annotation>
+	<folder>part10</folder>
+	<filename>3417.png</filename>
+	<path>/home/furkan/Desktop/Hazine/part10/3417.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ileriden sola mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1167</xmin>
+			<ymin>291</ymin>
+			<xmax>1195</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Saga donulmez</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>276</ymin>
+			<xmax>100</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

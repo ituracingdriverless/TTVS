@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Part1</folder>
+	<filename>182.png</filename>
+	<path>/home/sevval/Desktop/Part1/182.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ileri ve saga mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>730</xmin>
+			<ymin>353</ymin>
+			<xmax>752</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>

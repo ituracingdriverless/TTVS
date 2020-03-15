@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part2</folder>
+	<filename>393.png</filename>
+	<path>C:\Users\Acer\Desktop\Part2\393.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ileriden saga mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>250</ymin>
+			<xmax>470</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Giris olmayan yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>694</xmin>
+			<ymin>356</ymin>
+			<xmax>726</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

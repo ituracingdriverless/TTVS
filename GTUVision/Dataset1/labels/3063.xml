@@ -1,0 +1,50 @@
+<annotation>
+	<folder>part9</folder>
+	<filename>3063.png</filename>
+	<path>/home/furkan/Desktop/Hazine/part9/3063.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Azami hiz sinirlamasi (30 km/saat)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>766</xmin>
+			<ymin>330</ymin>
+			<xmax>795</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Sola donulmez</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>500</xmin>
+			<ymin>325</ymin>
+			<xmax>530</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Park yeri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>761</xmin>
+			<ymin>377</ymin>
+			<xmax>770</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>

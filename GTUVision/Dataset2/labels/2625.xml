@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part2_Şevval</folder>
+	<filename>2625.png</filename>
+	<path>/home/sevval/Desktop/Part2_Şevval/2625.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sola donulmez</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>443</xmin>
+			<ymin>129</ymin>
+			<xmax>491</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Giris olmayan yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>698</xmin>
+			<ymin>211</ymin>
+			<xmax>721</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

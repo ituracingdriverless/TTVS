@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part7</folder>
+	<filename>2424.png</filename>
+	<path>/home/omer/Desktop/Part7-20190906T064227Z-001/Part7/2424.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sola donulmez</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>435</xmin>
+			<ymin>255</ymin>
+			<xmax>496</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Azami hiz sinirlamasi (30 km/saat)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>941</xmin>
+			<ymin>269</ymin>
+			<xmax>995</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

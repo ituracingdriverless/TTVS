@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Part8</folder>
+	<filename>2886.png</filename>
+	<path>C:\Users\Acer\Desktop\Part8-20190906T114741Z-001\Part8\2886.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hiz sinirlamasi sonu (20 km/saat)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>293</ymin>
+			<xmax>168</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ileriden saga mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>376</xmin>
+			<ymin>334</ymin>
+			<xmax>406</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tasit trafigine kapali yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>885</xmin>
+			<ymin>340</ymin>
+			<xmax>917</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

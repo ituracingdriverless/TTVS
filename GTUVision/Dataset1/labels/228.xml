@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part1</folder>
+	<filename>228.png</filename>
+	<path>/home/sevval/Desktop/Part1/228.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ileri ve saga mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1105</xmin>
+			<ymin>205</ymin>
+			<xmax>1165</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Azami hiz sinirlamasi (20 km/saat)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>547</xmin>
+			<ymin>330</ymin>
+			<xmax>578</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>

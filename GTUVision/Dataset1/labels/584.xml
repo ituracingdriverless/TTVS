@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part2</folder>
+	<filename>584.png</filename>
+	<path>C:\Users\Acer\Desktop\Part2\584.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sola donulmez</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>506</xmin>
+			<ymin>309</ymin>
+			<xmax>550</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Azami hiz sinirlamasi (30 km/saat)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>807</xmin>
+			<ymin>314</ymin>
+			<xmax>845</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

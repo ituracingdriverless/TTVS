@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Part3</folder>
+	<filename>907.png</filename>
+	<path>C:\Users\Acer\Desktop\Part3\907.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Durak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>752</xmin>
+			<ymin>344</ymin>
+			<xmax>786</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>

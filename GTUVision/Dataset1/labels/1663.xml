@@ -1,0 +1,38 @@
+<annotation>
+	<folder>part5</folder>
+	<filename>1663.png</filename>
+	<path>/home/furkan/Desktop/Hazine/part5/1663.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Azami hiz sinirlamasi (30 km/saat)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>782</xmin>
+			<ymin>331</ymin>
+			<xmax>814</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Sola donulmez</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>505</xmin>
+			<ymin>324</ymin>
+			<xmax>535</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>

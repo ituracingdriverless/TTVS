@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part2_Şevval</folder>
+	<filename>3044.png</filename>
+	<path>/home/sevval/Desktop/Part2_Şevval/3044.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Park yeri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1195</xmin>
+			<ymin>133</ymin>
+			<xmax>1232</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Park yeri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1060</xmin>
+			<ymin>148</ymin>
+			<xmax>1088</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part3</folder>
+	<filename>1014.png</filename>
+	<path>C:\Users\Acer\Desktop\Part3\1014.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ileriden sola mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>807</xmin>
+			<ymin>299</ymin>
+			<xmax>861</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Saga donulmez</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>306</ymin>
+			<xmax>82</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

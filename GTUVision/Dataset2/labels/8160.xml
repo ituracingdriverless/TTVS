@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Part4_Ayşe</folder>
+	<filename>8160.png</filename>
+	<path>C:\Users\pc\Desktop\Part4_Ayşe\8160.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sola donulmez</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>414</xmin>
+			<ymin>88</ymin>
+			<xmax>475</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

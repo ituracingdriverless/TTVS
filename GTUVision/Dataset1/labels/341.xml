@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part1</folder>
+	<filename>341.png</filename>
+	<path>/home/sevval/Desktop/Part1/341.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hiz sinirlamasi sonu (20 km/saat)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>549</xmin>
+			<ymin>327</ymin>
+			<xmax>581</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ileriden saga mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>584</xmin>
+			<ymin>355</ymin>
+			<xmax>607</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

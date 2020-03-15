@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part1</folder>
+	<filename>77.png</filename>
+	<path>/home/sevval/Desktop/Part1/77.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ileriden sola mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>859</xmin>
+			<ymin>295</ymin>
+			<xmax>905</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Saga donulmez</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>309</ymin>
+			<xmax>84</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

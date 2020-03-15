@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Part5_Saliha</folder>
+	<filename>11355.png</filename>
+	<path>/home/saliha/Downloads/Part5_Saliha/11355.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Park yeri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1207</xmin>
+			<ymin>145</ymin>
+			<xmax>1240</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Park yeri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>985</xmin>
+			<ymin>169</ymin>
+			<xmax>1003</xmax>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Park yeri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>909</xmin>
+			<ymin>179</ymin>
+			<xmax>923</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

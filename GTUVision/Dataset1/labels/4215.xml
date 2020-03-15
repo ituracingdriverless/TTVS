@@ -1,0 +1,26 @@
+<annotation>
+	<folder>azami_30</folder>
+	<filename>265.png</filename>
+	<path>C:\Users\Saliha\Desktop\klasor\azami_30\265.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Azami hiz sinirlamasi (30 km/saat)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>298</xmin>
+			<ymin>76</ymin>
+			<xmax>376</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

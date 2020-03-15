@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part8</folder>
+	<filename>2906.png</filename>
+	<path>C:\Users\Acer\Desktop\Part8-20190906T114741Z-001\Part8\2906.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tasit trafigine kapali yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>888</xmin>
+			<ymin>282</ymin>
+			<xmax>943</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ileriden saga mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>294</ymin>
+			<xmax>95</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

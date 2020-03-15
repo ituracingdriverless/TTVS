@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part5_Saliha</folder>
+	<filename>9113.png</filename>
+	<path>/home/saliha/Downloads/Part5_Saliha/9113.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sola donulmez</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>63</ymin>
+			<xmax>424</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Saga donulmez</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>971</xmin>
+			<ymin>77</ymin>
+			<xmax>1034</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+</annotation>

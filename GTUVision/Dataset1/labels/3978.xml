@@ -1,0 +1,26 @@
+<annotation>
+	<folder>girilmez</folder>
+	<filename>17.png</filename>
+	<path>/home/duraklefkan/Desktop/klasor/girilmez/17.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Giris olmayan yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>799</xmin>
+			<ymin>194</ymin>
+			<xmax>825</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>

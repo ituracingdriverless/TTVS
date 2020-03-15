@@ -1,0 +1,26 @@
+<annotation>
+	<folder>20_hız_sınırı</folder>
+	<filename>53.png</filename>
+	<path>C:\Users\Saliha\Desktop\klasor\20_hız_sınırı\53.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Azami hiz sinirlamasi (20 km/saat)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>860</xmin>
+			<ymin>188</ymin>
+			<xmax>892</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

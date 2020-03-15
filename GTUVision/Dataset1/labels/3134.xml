@@ -1,0 +1,38 @@
+<annotation>
+	<folder>part9</folder>
+	<filename>3134.png</filename>
+	<path>/home/furkan/Desktop/Hazine/part9/3134.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Park yeri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>775</xmin>
+			<ymin>341</ymin>
+			<xmax>806</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>680</xmin>
+			<ymin>385</ymin>
+			<xmax>693</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

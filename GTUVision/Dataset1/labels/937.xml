@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part3</folder>
+	<filename>937.png</filename>
+	<path>C:\Users\Acer\Desktop\Part3\937.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Durak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>826</xmin>
+			<ymin>313</ymin>
+			<xmax>876</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ileriden sola mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>740</xmin>
+			<ymin>358</ymin>
+			<xmax>758</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sag_donus</folder>
+	<filename>102.png</filename>
+	<path>/home/duraklefkan/Desktop/klasor/sag_donus/102.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ileriden saga mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1032</xmin>
+			<ymin>87</ymin>
+			<xmax>1101</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+</annotation>

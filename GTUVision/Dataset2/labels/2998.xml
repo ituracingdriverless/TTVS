@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Part2_Şevval</folder>
+	<filename>2998.png</filename>
+	<path>/home/sevval/Desktop/Part2_Şevval/2998.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Park yeri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>984</xmin>
+			<ymin>153</ymin>
+			<xmax>1012</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Park yeri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>879</xmin>
+			<ymin>164</ymin>
+			<xmax>901</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Park etmek yasaktir</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1124</xmin>
+			<ymin>137</ymin>
+			<xmax>1159</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

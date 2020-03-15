@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saga_donulmez</folder>
+	<filename>129.png</filename>
+	<path>/home/omer/Desktop/saga_donulmez/129.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Saga donulmez</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>508</xmin>
+			<ymin>154</ymin>
+			<xmax>544</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

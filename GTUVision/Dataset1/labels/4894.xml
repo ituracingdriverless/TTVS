@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ileri_ve_sola_mecburi_yon</folder>
+	<filename>775.png</filename>
+	<path>C:\Users\pc\Desktop\ileri_ve_sola_mecburi_yon\775.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ileri ve sola mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>447</xmin>
+			<ymin>112</ymin>
+			<xmax>480</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

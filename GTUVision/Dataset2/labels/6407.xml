@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Part3_Hasna</folder>
+	<filename>6407.png</filename>
+	<path>C:\Users\asus\Desktop\Part3_Hasna\6407.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Durak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>826</xmin>
+			<ymin>140</ymin>
+			<xmax>867</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

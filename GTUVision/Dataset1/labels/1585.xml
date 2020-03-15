@@ -1,0 +1,38 @@
+<annotation>
+	<folder>part5</folder>
+	<filename>1585.png</filename>
+	<path>/home/furkan/Desktop/Hazine/part5/1585.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Park etmek yasaktir</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>149</ymin>
+			<xmax>275</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ileri ve sola mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>773</xmin>
+			<ymin>335</ymin>
+			<xmax>799</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>

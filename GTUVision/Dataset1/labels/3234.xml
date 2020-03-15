@@ -1,0 +1,26 @@
+<annotation>
+	<folder>part9</folder>
+	<filename>3234.png</filename>
+	<path>/home/furkan/Desktop/Hazine/part9/3234.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>797</xmin>
+			<ymin>321</ymin>
+			<xmax>855</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>

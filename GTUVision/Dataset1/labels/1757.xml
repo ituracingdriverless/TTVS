@@ -1,0 +1,38 @@
+<annotation>
+	<folder>part5</folder>
+	<filename>1757.png</filename>
+	<path>/home/furkan/Desktop/Hazine/part5/1757.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Park yeri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1091</xmin>
+			<ymin>189</ymin>
+			<xmax>1180</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>695</xmin>
+			<ymin>377</ymin>
+			<xmax>713</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>
