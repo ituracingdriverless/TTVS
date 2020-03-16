@@ -2,9 +2,8 @@
 <small> Trafik İşaretleri Veriseti </small> <br>
 <sub> <i> Veriseti paylaştıkça çoğalır! </i></sub>
 
-![Amount of Katılımcı 1](https://img.shields.io/badge/Katılımcı-1-green.svg)
-![Amount of labeled Görüntü 1264](https://img.shields.io/badge/Görüntü-1264-blue.svg)
-![Amount of labeled Trafik-İşareti 3047](https://img.shields.io/badge/Trafikİşareti-3047-blue.svg)
+![Amount of Katılımcı 2](https://img.shields.io/badge/Katılımcı-1-green.svg)
+![Amount of labeled Görüntü 12183](https://img.shields.io/badge/Görüntü-12183-blue.svg)
 
 ## Verisetine nasıl erişebilirim?
 Bu verisetine erişebilmek için en az 500 adet görüntüyü etiketlemeniz gerekmektedir. Bu şekilde verisetimizin doğal bir şekilde büyümesini sağlıyoruz.
@@ -33,6 +32,8 @@ Merak etmeyin, levha satın almanıza gerek yok. Google Haritalar üzerinden tü
 | Katılımcı     | Görüntü       | Etiket |
 | -------------          |:-------------:| -----: |
 | ITU Racing Driverless    | 1264          | 3047   |
-| ...           | ...           | ...    |
+| GTU Vision          | 10919          | ...    |
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
+
+![GTU Vision](https://img.techpowerup.org/200316/0-jfif.jpg)
