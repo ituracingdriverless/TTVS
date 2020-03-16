@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part4_Ayşe</folder>
+	<filename>9107.png</filename>
+	<path>C:\Users\pc\Desktop\Part4_Ayşe\9107.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sola donulmez</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>88</ymin>
+			<xmax>445</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Saga donulmez</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>926</xmin>
+			<ymin>94</ymin>
+			<xmax>986</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

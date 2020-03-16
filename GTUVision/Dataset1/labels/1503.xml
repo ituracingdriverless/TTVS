@@ -1,0 +1,38 @@
+<annotation>
+	<folder>part5</folder>
+	<filename>1503.png</filename>
+	<path>/home/furkan/Desktop/Hazine/part5/1503.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tasit trafigine kapali yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1216</xmin>
+			<ymin>196</ymin>
+			<xmax>1272</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Giris olmayan yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>611</xmin>
+			<ymin>345</ymin>
+			<xmax>634</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Part3</folder>
+	<filename>769.png</filename>
+	<path>C:\Users\Acer\Desktop\Part3\769.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>777</xmin>
+			<ymin>332</ymin>
+			<xmax>835</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>

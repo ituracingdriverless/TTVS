@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part2</folder>
+	<filename>400.png</filename>
+	<path>C:\Users\Acer\Desktop\Part2\400.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ileriden saga mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>194</ymin>
+			<xmax>289</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Giris olmayan yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>625</xmin>
+			<ymin>350</ymin>
+			<xmax>654</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

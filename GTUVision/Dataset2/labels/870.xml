@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Part1_Ömer</folder>
+	<filename>870.png</filename>
+	<path>/home/omer/Desktop/teknofest/Part1_Ömer/870.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sola donulmez</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1073</xmin>
+			<ymin>1</ymin>
+			<xmax>1155</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+</annotation>

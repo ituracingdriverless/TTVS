@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part1_Ömer</folder>
+	<filename>1320.png</filename>
+	<path>/home/omer/Desktop/teknofest/Part1_Ömer/1320.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Durak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1023</xmin>
+			<ymin>88</ymin>
+			<xmax>1081</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Giris olmayan yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>789</xmin>
+			<ymin>211</ymin>
+			<xmax>810</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

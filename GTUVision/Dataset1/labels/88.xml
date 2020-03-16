@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Part1</folder>
+	<filename>88.png</filename>
+	<path>/home/sevval/Desktop/Part1/88.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ileriden sola mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>969</xmin>
+			<ymin>227</ymin>
+			<xmax>1040</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

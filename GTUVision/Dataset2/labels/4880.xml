@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Part3_Hasna</folder>
+	<filename>4880.png</filename>
+	<path>C:\Users\asus\Desktop\Part3_Hasna\4880.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sola donulmez</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>28</ymin>
+			<xmax>131</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>

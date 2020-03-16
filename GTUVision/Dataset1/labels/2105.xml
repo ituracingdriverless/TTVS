@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part6</folder>
+	<filename>2105.png</filename>
+	<path>C:\Users\pc\Desktop\Part6\2105.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ileri ve saga mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>861</xmin>
+			<ymin>302</ymin>
+			<xmax>898</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Azami hiz sinirlamasi (20 km/saat)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>574</xmin>
+			<ymin>347</ymin>
+			<xmax>595</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

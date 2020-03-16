@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part7</folder>
+	<filename>2609.png</filename>
+	<path>/home/omer/Desktop/Part7-20190906T064227Z-001/Part7/2609.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Durak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>832</xmin>
+			<ymin>316</ymin>
+			<xmax>871</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ileriden sola mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>728</xmin>
+			<ymin>364</ymin>
+			<xmax>747</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>

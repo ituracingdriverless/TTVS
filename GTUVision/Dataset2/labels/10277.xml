@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part5_Saliha</folder>
+	<filename>10277.png</filename>
+	<path>/home/saliha/Downloads/Part5_Saliha/10277.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Giris olmayan yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>986</xmin>
+			<ymin>241</ymin>
+			<xmax>999</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Sola donulmez</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>779</xmin>
+			<ymin>186</ymin>
+			<xmax>804</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

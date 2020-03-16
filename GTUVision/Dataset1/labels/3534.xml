@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sola_mecburi_yon</folder>
+	<filename>541.png</filename>
+	<path>C:\Users\Acer\Desktop\sola_mecburi_yon\541.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ileriden sola mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>770</xmin>
+			<ymin>71</ymin>
+			<xmax>823</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>

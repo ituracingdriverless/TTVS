@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Part1</folder>
+	<filename>330.png</filename>
+	<path>/home/sevval/Desktop/Part1/330.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hiz sinirlamasi sonu (20 km/saat)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>580</xmin>
+			<ymin>340</ymin>
+			<xmax>601</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>

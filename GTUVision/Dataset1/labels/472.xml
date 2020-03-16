@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Part2</folder>
+	<filename>472.png</filename>
+	<path>C:\Users\Acer\Desktop\Part2\472.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ileri ve sola mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>715</xmin>
+			<ymin>352</ymin>
+			<xmax>740</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

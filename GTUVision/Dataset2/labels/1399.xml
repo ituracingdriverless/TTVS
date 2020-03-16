@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Part1_Ömer</folder>
+	<filename>1399.png</filename>
+	<path>/home/omer/Desktop/teknofest/Part1_Ömer/1399.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Giris olmayan yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>742</xmin>
+			<ymin>183</ymin>
+			<xmax>772</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

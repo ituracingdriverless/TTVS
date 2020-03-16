@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part6_Feyza</folder>
+	<filename>11397.png</filename>
+	<path>/home/fnuakyol/Desktop/Part6_Feyza/11397.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Park yeri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1112</xmin>
+			<ymin>157</ymin>
+			<xmax>1141</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Park yeri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1231</xmin>
+			<ymin>146</ymin>
+			<xmax>1263</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>

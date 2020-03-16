@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Part6</folder>
+	<filename>2208.png</filename>
+	<path>C:\Users\pc\Desktop\Part6\2208.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hiz sinirlamasi sonu (20 km/saat)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>551</xmin>
+			<ymin>338</ymin>
+			<xmax>573</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

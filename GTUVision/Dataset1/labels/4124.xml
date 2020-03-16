@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ileri_sag</folder>
+	<filename>148.png</filename>
+	<path>C:\Users\Saliha\Desktop\klasor\ileri_sag\148.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ileri ve saga mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>90</ymin>
+			<xmax>437</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

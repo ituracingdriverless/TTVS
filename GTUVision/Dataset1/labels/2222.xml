@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part6</folder>
+	<filename>2222.png</filename>
+	<path>C:\Users\pc\Desktop\Part6\2222.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hiz sinirlamasi sonu (20 km/saat)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymin>310</ymin>
+			<xmax>530</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ileriden saga mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>553</xmin>
+			<ymin>346</ymin>
+			<xmax>573</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part6</folder>
+	<filename>1991.png</filename>
+	<path>C:\Users\pc\Desktop\Part6\1991.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ileriden sola mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>813</xmin>
+			<ymin>297</ymin>
+			<xmax>854</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Saga donulmez</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>302</ymin>
+			<xmax>63</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

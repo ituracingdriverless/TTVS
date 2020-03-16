@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sola_donulmez</folder>
+	<filename>414.png</filename>
+	<path>/home/furkan/Desktop/Hazine/frames/klasor2/sola_donulmez/414.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sola donulmez</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>822</xmin>
+			<ymin>76</ymin>
+			<xmax>852</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>

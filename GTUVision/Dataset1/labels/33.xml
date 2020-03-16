@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Part1</folder>
+	<filename>33.png</filename>
+	<path>/home/sevval/Desktop/Part1/33.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Durak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>850</xmin>
+			<ymin>315</ymin>
+			<xmax>880</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ileriden sola mecburi yon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>738</xmin>
+			<ymin>362</ymin>
+			<xmax>758</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

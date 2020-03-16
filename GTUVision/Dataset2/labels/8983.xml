@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Part4_Ayşe</folder>
+	<filename>8983.png</filename>
+	<path>C:\Users\pc\Desktop\Part4_Ayşe\8983.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Giris olmayan yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1206</xmin>
+			<ymin>45</ymin>
+			<xmax>1240</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+</annotation>
