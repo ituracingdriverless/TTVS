@@ -4,8 +4,19 @@
 * Datasetin formatı xml formatındadır.
 * Sınıf isimleri her iki dataset için de belirtilmiştir.
 * Xml formatından txt formatına çevirmek için scripts klasörü altındaki script python scripti kullanılabilir.
+* İlk parçada 5364 etiketli görüntü bulunmaktadır.
+* İkinci parçada 5555 etiketli görüntü bulunmaktadır.
+
 
 ## DATASET 1
+
+### Class Names 
+
+Park yeri
+
+Azami hiz sinirlamasi (20 km/saat)
+
+Saga donulmez
 
 Durak
 
@@ -13,11 +24,11 @@ Hiz sinirlamasi sonu (20 km/saat)
 
 Tasit trafigine kapali yol
 
-Azami hiz sinirlamasi (30 km/saat)
-
 Ileriden saga mecburi yon
 
-leri ve saga mecburi yon
+Azami hiz sinirlamasi (30 km/saat)
+
+Ileri ve saga mecburi yon
 
 Giris olmayan yol
 
@@ -45,3 +56,5 @@ Giris olmayan yol
 Sola donulmez
 
 Saga donulmez
+
+Park etmek yasaktir
