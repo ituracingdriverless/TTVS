@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/duraklefkan/Desktop/SelfDrivingCar/carla-simulator/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/duraklefkan/Desktop/SelfDrivingCar/carla-simulator/catkin_ws/src/ros-bridge/amathutils_lib/include/**",
+        "/home/duraklefkan/Desktop/SelfDrivingCar/carla-simulator/catkin_ws/src/ros-bridge/autoware_health_checker/include/**",
+        "/home/duraklefkan/Desktop/SelfDrivingCar/carla-simulator/catkin_ws/src/ros-bridge/detected_objects_visualizer/include/**",
+        "/home/duraklefkan/Desktop/SelfDrivingCar/carla-simulator/catkin_ws/src/ros-bridge/libwaypoint_follower/include/**",
+        "/home/duraklefkan/Desktop/SelfDrivingCar/carla-simulator/catkin_ws/src/ros-bridge/lidar_euclidean_cluster_detect/include/**",
+        "/home/duraklefkan/Desktop/SelfDrivingCar/carla-simulator/catkin_ws/src/ros-bridge/lidar_shape_estimation/include/**",
+        "/home/duraklefkan/Desktop/SelfDrivingCar/carla-simulator/catkin_ws/src/ros-bridge/pcl_recorder/include/**",
+        "/home/duraklefkan/Desktop/SelfDrivingCar/carla-simulator/catkin_ws/src/ros-bridge/pure_pursuit/include/**",
+        "/home/duraklefkan/Desktop/SelfDrivingCar/carla-simulator/catkin_ws/src/ros-bridge/ros_observer/include/**",
+        "/home/duraklefkan/Desktop/SelfDrivingCar/carla-simulator/catkin_ws/src/ros-bridge/vector_map/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}

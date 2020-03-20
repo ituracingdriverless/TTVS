@@ -32,8 +32,9 @@ Merak etmeyin, levha satın almanıza gerek yok. Google Haritalar üzerinden tü
 | Katılımcı     | Görüntü       | Etiket |
 | -------------          |:-------------:| -----: |
 | ITU Racing Driverless    | 1264          | 3047   |
-| GTU Vision          | 10919          | ...    |
+| GTU           | 10919          | ...    |
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 
-![GTU Vision](https://img.techpowerup.org/200316/0-jfif.jpg)
+
+<img src="https://img.techpowerup.org/200320/gtu-logo.png" width="250" height='200'>
