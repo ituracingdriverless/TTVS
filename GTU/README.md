@@ -3,7 +3,7 @@
 * Dataset iki parça halindedir.
 * Datasetin formatı xml formatındadır.
 * Sınıf isimleri her iki dataset için de belirtilmiştir.
-* Xml formatından txt formatına çevirmek için scripts klasörü altındaki script python scripti kullanılabilir.
+* Xml formatından txt formatına çevirmek için scripts klasörü altındaki python scripti kullanılabilir.
 * İlk parçada 5364 etiketli görüntü bulunmaktadır.
 * İkinci parçada 5555 etiketli görüntü bulunmaktadır.
 
