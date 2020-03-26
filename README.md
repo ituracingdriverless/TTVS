@@ -1,6 +1,5 @@
 # TTVS (Türkiye Trafik Veriseti)
-![TR](https://i.ibb.co/6Y0v8S8/turkey-flag-icon-16.png)
-<small> Trafik İşaretleri Veriseti </small> <br>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/DCzGX9x/turkey-flag-icon-32.png" alt="turkey-flag-icon-32" border="0"></a><small> Trafik İşaretleri Veriseti </small> <br>
 <sub> <i> Veriseti paylaştıkça çoğalır! </i></sub>
 
 ![Amount of Katılımcı 2](https://img.shields.io/badge/Katılımcı-1-green.svg)
