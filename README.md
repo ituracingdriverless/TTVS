@@ -1,4 +1,5 @@
 # TTVS (Türkiye Trafik Veriseti)
+![TR](https://i.ibb.co/6Y0v8S8/turkey-flag-icon-16.png)
 <small> Trafik İşaretleri Veriseti </small> <br>
 <sub> <i> Veriseti paylaştıkça çoğalır! </i></sub>
 
@@ -31,7 +32,7 @@ Merak etmeyin, levha satın almanıza gerek yok. Google Haritalar üzerinden tü
 
 | Katılımcı     | Görüntü       | Etiket |
 | -------------          |:-------------:| -----: |
-| ITU Racing Driverless    | 1264          | 3047   |
+| ITU Racing Driverless    | 1264          | 3047   |[url=https://hizliresim.com/Kq0T6y][img]https://i.hizliresim.com/Kq0T6y.png[/img][/url]
 | GTU           | 10919          | ...    |
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
