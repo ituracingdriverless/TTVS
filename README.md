@@ -2,7 +2,7 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/DCzGX9x/turkey-flag-icon-32.png" alt="turkey-flag-icon-32" border="0"></a><small> Trafik İşaretleri Veriseti </small> <br>
 <sub> <i> Veriseti paylaştıkça çoğalır! </i></sub>
 
-![Amount of Katılımcı 2](https://img.shields.io/badge/Katılımcı-1-green.svg)
+![Amount of Katılımcı 2](https://img.shields.io/badge/Katılımcı-2-green.svg)
 ![Amount of labeled Görüntü 12183](https://img.shields.io/badge/Görüntü-12183-blue.svg)
 
 ## Verisetine nasıl erişebilirim?
