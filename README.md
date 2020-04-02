@@ -2,8 +2,8 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/DCzGX9x/turkey-flag-icon-32.png" alt="turkey-flag-icon-32" border="0"></a><small> Trafik İşaretleri Veriseti </small> <br>
 <sub> <i> Veriseti paylaştıkça çoğalır! </i></sub>
 
-![Amount of Katılımcı 3](https://img.shields.io/badge/Katılımcı-2-green.svg)
-![Amount of labeled Görüntü 12683](https://img.shields.io/badge/Görüntü-12183-blue.svg)
+![Amount of Katılımcı 3](https://img.shields.io/badge/Katılımcı-3-green.svg)
+![Amount of labeled Görüntü 12683](https://img.shields.io/badge/Görüntü-12683-blue.svg)
 
 ## Verisetine nasıl erişebilirim?
 Bu verisetine erişebilmek için en az 500 adet görüntüyü etiketlemeniz gerekmektedir. Bu şekilde verisetimizin doğal bir şekilde büyümesini sağlıyoruz.
