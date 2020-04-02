@@ -2,8 +2,8 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/DCzGX9x/turkey-flag-icon-32.png" alt="turkey-flag-icon-32" border="0"></a><small> Trafik İşaretleri Veriseti </small> <br>
 <sub> <i> Veriseti paylaştıkça çoğalır! </i></sub>
 
-![Amount of Katılımcı 2](https://img.shields.io/badge/Katılımcı-2-green.svg)
-![Amount of labeled Görüntü 12183](https://img.shields.io/badge/Görüntü-12183-blue.svg)
+![Amount of Katılımcı 3](https://img.shields.io/badge/Katılımcı-2-green.svg)
+![Amount of labeled Görüntü 12683](https://img.shields.io/badge/Görüntü-12183-blue.svg)
 
 ## Verisetine nasıl erişebilirim?
 Bu verisetine erişebilmek için en az 500 adet görüntüyü etiketlemeniz gerekmektedir. Bu şekilde verisetimizin doğal bir şekilde büyümesini sağlıyoruz.
@@ -33,8 +33,12 @@ Merak etmeyin, levha satın almanıza gerek yok. Google Haritalar üzerinden tü
 | -------------          |:-------------:| -----: |
 | ITU Racing Driverless    | 1264          | 3047   |[url=https://hizliresim.com/Kq0T6y][img]https://i.hizliresim.com/Kq0T6y.png[/img][/url]
 | GTU           | 10919          | ...    |
+| Fesleğen           | 500          | 534    |
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 
 
 <img src="https://img.techpowerup.org/200320/gtu-logo.png" width="250" height='200'>
+<br>
+
+<img src="https://i.hizliresim.com/5AykE6.png" width="250" height='200'>
