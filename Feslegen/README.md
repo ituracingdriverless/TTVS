@@ -1,8 +1,9 @@
-# DATASETS
+# DATASET
 
 * Dataset tek parça halindedir.
-* Datasetin formatı txt formatındadır YOLO için.
+* Datasetin formatı YOLO için txt formatındadır.
 * Sınıf isimleri belirtilmiştir.
+
 500 etiketli görüntü bulunmaktadır.
 
 
