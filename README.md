@@ -6,7 +6,7 @@
 ![Amount of labeled Görüntü 12683](https://img.shields.io/badge/Görüntü-12683-blue.svg)
 
 ## Veri setine nasıl erişebilirim?
-Bu veri setine erişebilmek için en az 500 adet görüntüyü etiketlemeniz gerekmektedir. Bu şekilde verisetimizin doğal bir şekilde büyümesini sağlıyoruz.
+Bu veri setine erişebilmek için en az 500 adet görüntüyü etiketlemeniz gerekmektedir. Bu şekilde veri setimizin doğal bir şekilde büyümesini sağlıyoruz.
 
 ## Etiketlemek için elimizde görüntü/levha yok.
 Merak etmeyin, levha satın almanıza gerek yok. Google Haritalar üzerinden tüm şehirlerimizi hız limiti olmadan gezebilirsiniz.
@@ -22,7 +22,7 @@ Merak etmeyin, levha satın almanıza gerek yok. Google Haritalar üzerinden tü
     
 1. Pull request açın.
 
-<h4>Eklediğiniz görüntüler ve etiketler gözden geçirildikten sonra <b>verisetinin tamamına</b> erişiminiz sağlanacaktır.</h4>
+<h4>Eklediğiniz görüntüler ve etiketler gözden geçirildikten sonra <b>veri setinin tamamına</b> erişiminiz sağlanacaktır.</h4>
 
 --------------------------------
 
