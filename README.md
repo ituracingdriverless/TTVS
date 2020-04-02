@@ -1,18 +1,18 @@
-# TTVS (Türkiye Trafik Veriseti)
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/DCzGX9x/turkey-flag-icon-32.png" alt="turkey-flag-icon-32" border="0"></a><small> Trafik İşaretleri Veriseti </small> <br>
-<sub> <i> Veriseti paylaştıkça çoğalır! </i></sub>
+# TTVS (Türkiye Trafik Veri Seti)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/DCzGX9x/turkey-flag-icon-32.png" alt="turkey-flag-icon-32" border="0"></a><small> Trafik İşaretleri Veri Seti </small> <br>
+<sub> <i> Veri seti paylaştıkça çoğalır! </i></sub>
 
 ![Amount of Katılımcı 3](https://img.shields.io/badge/Katılımcı-3-green.svg)
 ![Amount of labeled Görüntü 12683](https://img.shields.io/badge/Görüntü-12683-blue.svg)
 
-## Verisetine nasıl erişebilirim?
-Bu verisetine erişebilmek için en az 500 adet görüntüyü etiketlemeniz gerekmektedir. Bu şekilde verisetimizin doğal bir şekilde büyümesini sağlıyoruz.
+## Veri setine nasıl erişebilirim?
+Bu veri setine erişebilmek için en az 500 adet görüntüyü etiketlemeniz gerekmektedir. Bu şekilde verisetimizin doğal bir şekilde büyümesini sağlıyoruz.
 
 ## Etiketlemek için elimizde görüntü/levha yok.
 Merak etmeyin, levha satın almanıza gerek yok. Google Haritalar üzerinden tüm şehirlerimizi hız limiti olmadan gezebilirsiniz.
 
 
-## Verisetine nasıl katkıda bulunurum?
+## Veri setine nasıl katkıda bulunurum?
 
 1. [Mail ile iletişime geçin](mailto:ituracingdriverless@gmail.com): ituracingdriverless@gmail.com
 1. Etiketlediğiniz görüntüleri sizin ile paylaştığımız Google Fotoğraflar albümüne ekleyin. Görüntüler zip formatında paylaşılabilir.
