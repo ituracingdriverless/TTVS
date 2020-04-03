@@ -1,10 +1,10 @@
-#KU AI and Robotics Society: SPARK Autonomous Car Team Trafik İşareti Veri Seti
+# KU AI and Robotics Society: SPARK Autonomous Car Team Trafik İşareti Veri Seti
 
 Veri seti etiketleri YOLO v3  formatinda txt dosyalari halindedir.
 Sinif isimleri alt tarafta belirtilmistir.
 Toplam 510 görüntü, 550 label vardir.
 
-##Sınıf Adları
+## Sınıf Adları
 
 1. Giris olmayan yol
 2. Tasit trafigine kapali yol
