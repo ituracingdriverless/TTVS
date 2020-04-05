@@ -34,6 +34,7 @@ Merak etmeyin, levha satın almanıza gerek yok. Google Haritalar üzerinden tü
 | ITU Racing Driverless    | 1264          | 3047   |[url=https://hizliresim.com/Kq0T6y][img]https://i.hizliresim.com/Kq0T6y.png[/img][/url]
 | GTU           | 10919          | ...    |
 | Fesleğen           | 500          | 534    |
+| KU AIRS | 510 | 550 |
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 
@@ -42,3 +43,4 @@ Merak etmeyin, levha satın almanıza gerek yok. Google Haritalar üzerinden tü
 <br>
 
 <img src="https://i.hizliresim.com/5AykE6.png" width="250" height='200'>
+<img src="https://i.hizliresim.com/4QyzAh.png" width="250" height='200'>
