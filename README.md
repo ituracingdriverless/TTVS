@@ -1,5 +1,5 @@
 # TTVS (Türkiye Trafik Veri Seti)
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/DCzGX9x/turkey-flag-icon-32.png" alt="turkey-flag-icon-32" border="0"></a><small> Trafik İşaretleri Veri Seti </small> <br>
+<a href="https://imgbb.com/"><img src="https://cdn.webshopapp.com/shops/94414/files/54949672/turkey-flag-icon-free-download.jpg" alt="turkey-flag-icon-32" border="0" height=32 ></a><small> Trafik İşaretleri Veri Seti </small> <br>
 <sub> <i> Veri seti paylaştıkça çoğalır! </i></sub>
 
 ![Amount of Katılımcı 4](https://img.shields.io/badge/Katılımcı-4-green.svg)
