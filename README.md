@@ -35,15 +35,17 @@ Merak etmeyin, levha satın almanıza gerek yok. Google Haritalar üzerinden tü
 | GTU           | 10919          | ...    |
 | Fesleğen           | 500          | 534    |
 | KU AIRS | 510 | 550 |
+| YTU AESK | 1171 | 2788 |
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 
 <img src="https://img.techpowerup.org/200320/gtu-logo.png" width="250" height='200'>
 <br>
-<img src="https://img.techpowerup.org/200529/air.png" width="250" height='200'>
+<img src="https://img.techpowerup.org/200529/air.png" width="200" height='200'>
 <br>
-
-<img src="https://img.techpowerup.org/200529/feslegen.png" width="250" height='200'>
+<img src="https://img.techpowerup.org/200529/feslegen.png" width="200" height='200'>
+<br>
+<img src="https://img.techpowerup.org/200814/download.png" width="200" height='200'>
 
 ## Lisans
 Lisans metni: https://github.com/ituracingdriverless/TTVS/blob/master/cla.md
