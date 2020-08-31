@@ -38,6 +38,7 @@ Merak etmeyin, levha satın almanıza gerek yok. Google Haritalar üzerinden tü
 | YTU AESK | 1171 | 2788 |
 | EVA Otonom | 846 | 1410 | 
 | BOUN BURST | 509 | 509 |
+
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 
 <img src="https://img.techpowerup.org/200320/gtu-logo.png" width="250" height='200'>
