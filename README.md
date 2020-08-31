@@ -32,7 +32,7 @@ Merak etmeyin, levha satın almanıza gerek yok. Google Haritalar üzerinden tü
 | Katılımcı     | Görüntü       | Etiket |
 | -------------          |:-------------:| -----: |
 | ITU Racing Driverless    | 1264          | 3047   |[url=https://hizliresim.com/Kq0T6y][img]https://i.hizliresim.com/Kq0T6y.png[/img][/url]
-| GTU           | 10919          | ...    |
+| GTU           | 10919          | 15478    |
 | Fesleğen           | 500          | 534    |
 | KU AIRS | 510 | 550 |
 | YTU AESK | 1171 | 2788 |
