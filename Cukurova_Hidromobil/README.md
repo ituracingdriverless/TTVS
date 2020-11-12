@@ -1,36 +1,36 @@
 Görüntüler ile label'lar aynı isimdedir.
 Yolo fotmatına uygun olarak class'ların indis numarası olarak kaydedilmiş ve aşağıdaki gibi belirtilmiştir.
 
-0-park
+0-Park
 
-1-parkYasak
+1-Park Yasak
 
-2-durak
+2-Durak
 
-3-sol
+3-Ileride Sol Mecburi
 
-4-sag
+4-Ileride Sag Mecburi
 
-5-solaDonulmez
+5-Sola Donulmez
 
-6-sagaDonulmez
+6-Saga Donulmez
 
-7-ileriSol
+7-Ileri ve Sol Mecburi
 
-8-ileriSag
+8-Ileri ve Sag Mecburi
 
-9-dur
+9-Dur
 
-10-30
+10-Hiz Siniri 30
 
-11-20
+11-Hiz Siniri 20
 
-12-yesil
+12-Yesil Isik
+ 
+13-Kirmizi Isik
 
-13-kirmizi
+14-Sari Isik
 
-14-sari
+15-Giris Yok
 
-15-girisYok
-
-16-tasitTrafigineKapali
+16-Tasit Trafigine Kapali
