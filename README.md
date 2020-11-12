@@ -3,7 +3,7 @@
 <sub> <i> Veri seti paylaştıkça çoğalır! </i></sub>
 
 ![Amount of Katılımcı 7](https://img.shields.io/badge/Katılımcı-7-green.svg)
-![Amount of labeled Görüntü 15719](https://img.shields.io/badge/Görüntü-15719-blue.svg)
+![Amount of labeled Görüntü 16920](https://img.shields.io/badge/Görüntü-16920-blue.svg)
 
 ## Veri setine nasıl erişebilirim?
 Bu veri setine erişebilmek için en az 500 adet görüntüyü etiketlemeniz gerekmektedir. Bu şekilde veri setimizin doğal bir şekilde büyümesini sağlıyoruz.
@@ -38,6 +38,7 @@ Merak etmeyin, levha satın almanıza gerek yok. Google Haritalar üzerinden tü
 | YTU AESK | 1171 | 2788 |
 | EVA Otonom | 846 | 1410 | 
 | BOUN BURST | 509 | 509 |
+| CUKUROVA Hidromobil | 1201 | 1764 |
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 
@@ -49,6 +50,7 @@ Merak etmeyin, levha satın almanıza gerek yok. Google Haritalar üzerinden tü
 <br>
 <img src="https://img.techpowerup.org/200814/download.png" width="200" height='200'>
 <img src="https://img.techpowerup.org/200816/evalogo.png" width="200" height='200'>
+<img src="https://img.techpowerup.org/201112/hydromobilelogotransparan.png" width="200" height='200'>
 
 ## Lisans
 Lisans metni: https://github.com/ituracingdriverless/TTVS/blob/master/cla.md
