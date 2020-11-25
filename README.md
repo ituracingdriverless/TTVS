@@ -16,12 +16,13 @@ Merak etmeyin, levha satın almanıza gerek yok. Google Haritalar üzerinden tü
 
 1. [Mail ile iletişime geçin](mailto:ituracingdriverless@gmail.com): ituracingdriverless@gmail.com
 1. Etiketlediğiniz görüntüleri sizin ile paylaştığımız Google Fotoğraflar albümüne ekleyin. Görüntüler zip formatında paylaşılabilir.
-1. Bu depoyu (repository) forklayın.
+1. Bu depoyu (repository) forklayın. 
 1. Tüm etiket dosyalarını forkladığınız depoya yükleyin.
     1. Etiketleriniz sınıf (class) isimleri yerine indis kullanıyorsa lütfen bunu belirtin: Örnek olarak `ITU-RacingDriverless` dizinine bakabilirsiniz.
     
-1. Pull request açın.
+1. Pull request açın. 
 
+Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFlI).
 <h4>Eklediğiniz görüntüler ve etiketler gözden geçirildikten sonra <b>veri setinin tamamına</b> erişiminiz sağlanacaktır.</h4>
 
 --------------------------------
