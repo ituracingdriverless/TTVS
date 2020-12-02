@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bluetooth</folder>
+	<filename>savhascelik (460).jpg</filename>
+	<path>D:\yuksek_lisans\tez\kod\resimler\bluetooth\savhascelik (460).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2160</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dur Tabelası</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1568</xmin>
+			<ymin>674</ymin>
+			<xmax>1614</xmax>
+			<ymax>710</ymax>
+		</bndbox>
+	</object>
+</annotation>

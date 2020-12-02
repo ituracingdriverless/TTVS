@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bluetooth</folder>
+	<filename>savhascelik (177).jpg</filename>
+	<path>D:\yuksek_lisans\tez\kod\resimler\bluetooth\savhascelik (177).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2160</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hız Limiti 30 Tabelası</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1496</xmin>
+			<ymin>553</ymin>
+			<xmax>1585</xmax>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+</annotation>

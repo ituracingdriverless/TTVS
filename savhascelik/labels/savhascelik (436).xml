@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bluetooth</folder>
+	<filename>savhascelik (436).jpg</filename>
+	<path>D:\yuksek_lisans\tez\kod\resimler\bluetooth\savhascelik (436).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2160</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Işıklı İşaret Cihazı</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1330</xmin>
+			<ymin>453</ymin>
+			<xmax>1394</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

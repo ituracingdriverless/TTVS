@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bluetooth</folder>
+	<filename>savhascelik (514).jpg</filename>
+	<path>D:\yuksek_lisans\tez\kod\resimler\bluetooth\savhascelik (514).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>405</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Duraklama ve Park Etme Yasak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>345</xmin>
+			<ymin>54</ymin>
+			<xmax>475</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,14 +1,14 @@
 # DATASET
 
 * Dataset tek parça halindedir.
-* Datasetin formatı YOLO için txt formatındadır.
-* Sınıf isimleri belirtilmiştir.
-
-500 etiketli görüntü bulunmaktadır.
+* Datasetin formatı PascalVOC için xml formatındadır.
 
 
+501 etiketli görüntü bulunmaktadır.
 
-### YOLO Class Names
+
+
+### PascalVOC Class Names
 
 0 - dur
 
