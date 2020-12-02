@@ -8,7 +8,7 @@
 
 
 
-### PascalVOC Class Names
+### YOLO Class Names
 
 0 - dur
 
