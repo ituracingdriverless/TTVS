@@ -2,6 +2,7 @@
 
 * Dataset tek parça halindedir.
 * Datasetin formatı PascalVOC için xml formatındadır.
+* Xml formatından txt formatına çevirmek için [efkandurakli](https://github.com/savhascelik/TTVS/commits?author=efkandurakli) GTU/[scripts](https://github.com/savhascelik/TTVS/tree/master/GTU/scripts) klasörü altındaki python scripti kullanılabilir
 
 
 501 etiketli görüntü bulunmaktadır.
