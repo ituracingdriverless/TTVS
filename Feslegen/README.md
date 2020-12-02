@@ -7,7 +7,6 @@
 501 etiketli görüntü bulunmaktadır.
 
 
-
 ### PascalVOC Class Names
 
 0 - dur
