@@ -10,7 +10,7 @@
 
 ### PascalVOC Class Names
 
-Dur Tabelası
+Dur Tabelası_
 Durak Tabelası
 Hız Limiti 30 Tabelası
 Sağa Dönülebilir Veya İleri Gidilebilir Tabelası
