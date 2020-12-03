@@ -86,4 +86,4 @@ Her İki Yandan Gidiniz: 11\
 Hız Limiti 60 Tabelası: 5\
 Okul Geçidi: 11\
 Hız Limiti 82 Tabelası: 2\
-Duraklama ve Park Etme Yasak: 32\
+Duraklama ve Park Etme Yasak: 32
