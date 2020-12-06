@@ -41,6 +41,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 | BOUN BURST | 509 | 509 |
 | CUKUROVA Hidromobil | 1201 | 1764 |
 | SavHascelik | 517 | 524 |
+
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 
 <img src="https://img.techpowerup.org/200320/gtu-logo.png" width="250" height='200'>
