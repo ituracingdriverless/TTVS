@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>bluetooth</folder>
+	<filename>savhascelik_3.xml</filename>
+	<path>D:\yuksek_lisans\tez\kod\resimler\bluetooth\savhascelik_3.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2160</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yön Tabelası</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>462</xmin>
+			<ymin>85</ymin>
+			<xmax>669</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Sağa Dönülebilir Veya İleri Gidilebilir Tabelası</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>320</xmin>
+			<ymin>597</ymin>
+			<xmax>378</xmax>
+			<ymax>649</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Sağdan Anayol Girişi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>517</ymin>
+			<xmax>120</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dönüş Adası Tabelası</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>327</xmin>
+			<ymin>656</ymin>
+			<xmax>376</xmax>
+			<ymax>726</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tehlikeli Viraj Tabelası</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>731</xmin>
+			<ymin>570</ymin>
+			<xmax>763</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tehlikeli Viraj Tabelası</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1252</xmin>
+			<ymin>519</ymin>
+			<xmax>1276</xmax>
+			<ymax>547</ymax>
+		</bndbox>
+	</object>
+</annotation>

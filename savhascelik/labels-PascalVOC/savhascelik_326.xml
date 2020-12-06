@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>bluetooth</folder>
+	<filename>savhascelik_326.xml</filename>
+	<path>D:\yuksek_lisans\tez\kod\resimler\bluetooth\savhascelik_326.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2160</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Park Yasak Tabelası</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1426</xmin>
+			<ymin>569</ymin>
+			<xmax>1515</xmax>
+			<ymax>659</ymax>
+		</bndbox>
+	</object>
+</annotation>
