@@ -41,7 +41,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 | BOUN BURST | 509 | 509 |
 | CUKUROVA Hidromobil | 1201 | 1764 |
 | SavHascelik | 517 | 524 |
-| AITT | 515 | 613 |
+| AITT | 515 | 652 |
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 
@@ -54,6 +54,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 <img src="https://img.techpowerup.org/200814/download.png" width="200" height='200'>
 <img src="https://img.techpowerup.org/200816/evalogo.png" width="200" height='200'>
 <img src="https://img.techpowerup.org/201112/hydromobilelogotransparan.png" width="200" height='200'>
+<img src="https://i.ibb.co/8Mnb2x0/aitt-logo.jpg" width="200" height='200'>
 
 ## Lisans
 Lisans metni: https://github.com/ituracingdriverless/TTVS/blob/master/cla.md
