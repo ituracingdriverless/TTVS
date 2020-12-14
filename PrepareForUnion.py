@@ -167,7 +167,7 @@ BasarSoft = {
     "Ana Yol Tali Yol (T-22c)":33,
     "Yol Ver":34,
     "Ana Yol":35,
-    "Yük Taşıtlarının Öndeki Taşıtı Geçmesi Yasaktır ":36,
+    "Yük Taşıtlarının Öndeki Taşıtı Geçmesi Yasaktır":36,
     "Öndeki Taşıtı Geçmek Yasaktır":37,
     "Tehlike":38,
     "Yolda Çalışma":39,
