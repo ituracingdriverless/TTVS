@@ -16,13 +16,14 @@ def PrefixFileName(folderPath, prefix):
         break
 
 # Dosya isimlerinin başına yoksa ön ek konarak tekilleştirilmesi sağlanıyor
-commonPath = "F:/Trafik Isaretleri/TTVS-master/" # Veri yolu. Bu kısmı kendinize göre değiştirin.
+commonPath = "D:/Trafik Isaretleri/TTVS-master/" # Veri yolu. Bu kısmı kendinize göre değiştirin.
+
 PrefixFileName(commonPath + "BURST", "BUR")
 PrefixFileName(commonPath + "BURST/labels", "BUR")
 PrefixFileName(commonPath + "YTU-AESK", "YTU")
 PrefixFileName(commonPath + "YTU-AESK/labels", "YTU")
 PrefixFileName(commonPath + "ITU-RacingDriverless", "ITU")
-PrefixFileName(commonPath + "ITU-RacingDriverless/labels", "ITU")
+PrefixFileName(commonPath + "ITU-RacingDriverless/yoloLabels", "ITU")
 PrefixFileName(commonPath + "GTU/Dataset1", "GTU1_")
 PrefixFileName(commonPath + "GTU/Dataset1/labels", "GTU1_")
 PrefixFileName(commonPath + "GTU/Dataset2", "GTU2_")
@@ -31,7 +32,6 @@ PrefixFileName(commonPath + "Basarsoft/Sag", "BSR")
 PrefixFileName(commonPath + "Basarsoft/Sag/labels", "BSR")
 PrefixFileName(commonPath + "Basarsoft/Sol", "BSR")
 PrefixFileName(commonPath + "Basarsoft/Sol/labels", "BSR")
-
 
 # Alt bölümdeki kod ile Başaroft CSV dosyasındaki etiket isimlerinin tekil bir listesi oluşturulur.
 
@@ -128,7 +128,7 @@ def ConvertCsvtoYolo(path):
                     f.write("\n")
                     f.close()
         break
-    
+
 # Türkiye Cumhuriyeti Karayolları Genel Müdürlüğü Yönetmeliğindeki isimlerle oluşturulmuş trafik işaretleri sınıf listesi
 BasarSoft = {
     "Kasisli Yol":0,
@@ -138,8 +138,8 @@ BasarSoft = {
     "Sola Tehlikeli Viraj":4,
     "Yaya Geçidi (B-14a)":5,
     "U Dönüşü Yapılmaz":6,
-    "Hız Limiti":7,
-    "Hız Sınırı İşareti":8,
+    "Hastane":7,
+    "Akaryakıt İstasyonu":8,
     "Ana Yol Tali Yol (T-22a)":9,
     "Ana Yol Tali Yol Sağ":10,
     "Yaya Geçidi (T-11)":11,
@@ -167,26 +167,26 @@ BasarSoft = {
     "Ana Yol Tali Yol (T-22c)":33,
     "Yol Ver":34,
     "Ana Yol":35,
-    "Kamyon için Sollama Yasak":36,
-    "Sollama Yasak":37,
+    "Yük Taşıtlarının Öndeki Taşıtı Geçmesi Yasaktır ":36,
+    "Öndeki Taşıtı Geçmek Yasaktır":37,
     "Tehlike":38,
-    "Çalışma Var":39,
+    "Yolda Çalışma":39,
     "Dur":40,
     "İleri Mecburi Yön":41,
     "Kaygan Yol":42,
     "Sağa Mecburi Yön":43,
     "Taşıt Trafiğine Kapalı Yol":44,
     "Trafik Lambası":45,
-    "Kamyon için Sollama Yasağı Sonu":46,
+    "Kamyonlar için Geçme Yasağı Sonu":46,
     "Kamyon Giremez":47,
-    "Sollama Yasağı Sonu":48,
+    "Geçme Yasağı Sonu":48,
     "Bisiklet Geçebilir":49,
     "Çıkmaz Yol":50,
     "İki Taraftan Daralan Kaplama":51,
     "Sınırlama Sonu":52,
     "Soldan Gidiniz":53,
     "Tehlikeli Viraj Yön Levhası":54,
-    "Hayvan Geçebilir":55,
+    "Vahşi Hayvanlar Geçebilir":55,
     "Park Yeri":56, 
     "Durak":57,
     "Azami Hız Sınırlaması 10":58,
@@ -206,11 +206,32 @@ BasarSoft = {
     "Sağdan Ana Yola Giriş":72,
     "Her İki Yandan Gidiniz":73,
     "Duraklamak ve Park Etmek Yasaktır":74,
-    "Sola Mecburi Yön":75
+    "Sola Mecburi Yön":75,
+    "Dönüş Adası Ek Levhası":76,
+    "Refüj Başı Ek Levhası (Sol)":77,
+    "Refüj Başı Ek Levhası (Sağ)":78,
+    "Dönel Kavşak":79,
+    "Yaya Üst Geçidi":80,
+    "Sağa ve Sola Mecburi Yön":81,
+    "Mecburi Bisiklet Yolu":82,
+    "Engelli Park Yeri":83,
+    "Elektronik Denetleme Sistemi":84,
+    "Azami Hız Sınırlaması 120":85,
+    "Mecburi Asgari Hız 40":86,
+    "Onarım Yaklaşım Levhası":87,
+    "Kontrolsüz Kavşak":88,
+    "Mecburi Bisiklet Yolu Sonu":89,
+    "U Dönüşü Levhası":90,
+    "Sola Tehlikeli Devamlı Virajlar":91,
+    "Bütün Yasaklama Ve Kısıtlamaların Sonu":92,
+    "Hız Sınırlaması Sonu 80":93,
+    "Azami Hız Sınırlaması 80":94,
+    "Azami Hız Sınırlaması 100":95
+
 }
 
-ConvertCsvtoYolo(commonPath + "Basarsoft/Sag")
-ConvertCsvtoYolo(commonPath + "Basarsoft/Sol")
+# ConvertCsvtoYolo(commonPath + "Basarsoft/Sag")
+# ConvertCsvtoYolo(commonPath + "Basarsoft/Sol")
 
 AITT = {
     0: ["park", 56],             #0 Park Yeri
@@ -232,7 +253,7 @@ AITT = {
     16: ["parkvedurmakyasak", 74]#16 Duraklamak Ve Park Etmek Yasaktır
 }
 
-ConvertYolo(commonPath + "AITT/labels", AITT)
+# ConvertYolo(commonPath + "AITT/labels", AITT)
 
 BURST = {
     0: ["SOL", 70],                         #0 İleriden Sola Mecburi Yön 
@@ -252,7 +273,7 @@ BURST = {
     14: ["DURAK", 57],                      #14 Durak
 }
 
-ConvertYolo(commonPath + "BURST/labels", BURST)
+# ConvertYolo(commonPath + "BURST/labels", BURST)
 
 Cukurova_Hidromobil = {
     0: ["Park", 56],                   #0 Park Yeri
@@ -274,7 +295,7 @@ Cukurova_Hidromobil = {
     16: ["Tasit Trafigine Kapali", 44] #16 Taşıt Trafiğine Kapalı Yol
 }
 
-ConvertYolo(commonPath + "Cukurova_Hidromobil/labels", Cukurova_Hidromobil)
+# ConvertYolo(commonPath + "Cukurova_Hidromobil/labels", Cukurova_Hidromobil)
 
 EVAOtonom = {
     0: ["park", 56],         #0 Park Yeri
@@ -295,7 +316,7 @@ EVAOtonom = {
     15: ["girisyok", 30],     #15	Girişi Olmayan Yol
 }
 
-ConvertYolo(commonPath + "EVA-Otonom/labels", EVAOtonom)
+# ConvertYolo(commonPath + "EVA-Otonom/labels", EVAOtonom)
 
 Feslegen = {
     0: ["dur", 40],           #0 Dur
@@ -313,7 +334,7 @@ Feslegen = {
     12: ["hizSiniri30", 60],  #12 Azami Hız Sınırlaması 30 
 }
 
-ConvertYolo(commonPath + "Feslegen/labels", Feslegen)
+# ConvertYolo(commonPath + "Feslegen/labels", Feslegen)
 
 GTU1 = {
     0: ["Sola donulmez", 12],					    #0 Sola Dönülmez
@@ -336,8 +357,8 @@ GTU1 = {
     17: ["Sola donulmez", 12],					    #17 Sola Dönülmez
 }
 
-ConvertYolo(commonPath + "GTU/Dataset1/labels", GTU1)
-ConvertYolo(commonPath + "GTU/Dataset2/labels", GTU1)
+# ConvertYolo(commonPath + "GTU/Dataset1/labels", GTU1)
+# ConvertYolo(commonPath + "GTU/Dataset2/labels", GTU1)
 
 
 
@@ -350,10 +371,10 @@ ITU_RacingDriverless = {
     5: ["tasitGiremez", 44], #5 Taşıt Trafiğine Kapalı Yol
     6: ["parkYasak", 25],    #6 Park Etmek Yasaktır
     7: ["park", 56],         #7 Park yeri
-    8: ["trafikIsigi", 26],  #8 Işıklı İşaret Cihazı
+    8: ["trafikIsigi", 45],  #8 Trafik Lambası
 }
 
-ConvertYolo(commonPath + "ITU-RacingDriverless/labels", ITU_RacingDriverless)
+ConvertYolo(commonPath + "ITU-RacingDriverless/yoloLabels", ITU_RacingDriverless)
 
 KU_AIRS_Spark = {
     0: ["Giris olmayan yol", 30],                   #0 Girişi Olmayan Yol
@@ -376,7 +397,7 @@ KU_AIRS_Spark = {
     17: ["dumduz gidiniz", 41],                     #17 İleri Mecburi Yön
 }
 
-ConvertYolo(commonPath + "KU-AIRS-Spark/Dataset", KU_AIRS_Spark)
+# ConvertYolo(commonPath + "KU-AIRS-Spark/Dataset", KU_AIRS_Spark)
 
 YTU_AESK = {
     0: ["girilmez", 30],                 #0 Girişi Olmayan Yol
@@ -399,7 +420,7 @@ YTU_AESK = {
     17: ["yesil_isik", 67],              #17 Yeşil Işık
 }
 
-ConvertYolo(commonPath + "YTU-AESK/labels", YTU_AESK)
+# ConvertYolo(commonPath + "YTU-AESK/labels", YTU_AESK)
 
 savhascelik = {
     0: ["Dur Tabelası", 40],                                    #0 Dur
@@ -441,4 +462,51 @@ savhascelik = {
     36: ["Duraklama ve Park Etme Yasak", 74],                    #36 Duraklamak Ve Park Etmek Yasaktır
 }
 
-ConvertYolo(commonPath + "savhascelik/Labels-YOLO", savhascelik)
+# ConvertYolo(commonPath + "savhascelik/Labels-YOLO", savhascelik)
+
+gtsdb = {
+    0: ["speed limit 20 (prohibitory)", 59],                        #59 Azami Hız Sınırlaması 20
+    1 : ["speed limit 30 (prohibitory)", 60],                       #60 Azami Hız Sınırlaması 30
+    2 : ["speed limit 50 (prohibitory)", 62],                       #62 Azami Hız Sınırlaması 50
+    3 : ["speed limit 60 (prohibitory)", 63],                       #63 Azami Hız Sınırlaması 60
+    4 : ["speed limit 70 (prohibitory)", 64],                       #64 Azami Hız Sınırlaması 70
+    5 : ["speed limit 80 (prohibitory)", 94],                       #94 Azami Hız Sınırlaması 80
+    6 : ["restriction ends 80 (other)", 93],                        #93 Hız Sınırlaması Sonu 80
+    7 : ["speed limit 100 (prohibitory)", 95],                      #95 Azami Hız Sınırlaması 100
+    8 : ["speed limit 120 (prohibitory)", 85],                      #85 Azami Hız Sınırlaması 120
+    9 : ["no overtaking (prohibitory)", 37],                        #37 Öndeki Taşıtı Geçmek Yasaktır
+    10 : ["no overtaking (trucks) (prohibitory)", 36],              #36 Yük Taşıtlarının Öndeki Taşıtı Geçmesi Yasaktır
+    11 : ["priority at next intersection (danger)", 22],            #22 Ana Yol Tali Yol Kavşağı (T-22a)
+    12 : ["priority road (other)", 35],                             #35 Ana Yol 
+    13 : ["give way (other)", 34],                                  #34 Yol Ver
+    14 : ["stop (other)", 40],                                      #40 Dur
+    15 : ["no traffic both ways (prohibitory)", 44],                #44 Taşıt Trafiğine Kapalı Yol
+    16 : ["no trucks (prohibitory)", 47],                           #47 Kamyon Giremez
+    17 : ["no entry (other)", 30],                                  #30 Girişi Olmayan Yol
+    18 : ["danger (danger)", 38],                                   #38 Tehlike
+    19 : ["bend left (danger)", 4],                                 #4 Sola Tehlikeli Viraj
+    20 : ["bend right (danger)", 17],                               #17 Sağa Tehlikeli Viraj
+    21 : ["bend (danger)", 91],                                     #91 Sola Tehlikeli Devamlı Virajlar
+    22 : ["uneven road (danger)", 0],                               #0 Kasisli Yol
+    23 : ["slippery road (danger)", 42],                            #42 Kaygan Yol
+    24 : ["road narrows (danger)", 32],                             #32 Sağdan Daralan Kaplama
+    25 : ["construction (danger)", 39],                             #39 Yolda Çalışma
+    26 : ["traffic signal (danger)", 26],                           #26 Işıklı İşaret Cihazı
+    27 : ["pedestrian crossing (danger)", 11],                      #11 Yaya Geçidi (T-11)
+    28 : ["school crossing (danger)", 13],                          #13 Okul Geçidi (T-12)
+    29 : ["cycles crossing (danger)", 49],                          #49 Bisiklet Geçebilir
+    30 : ["snow (danger)", 15],                                     #15 Gizli Buzlanma
+    31 : ["animals (danger)", 55],                                  #55 Vahşi Hayvanlar Geçebilir
+    32 : ["restriction ends (other)", 92],                          #92 Bütün Yasaklama Ve Kısıtlamaların Sonu
+    33 : ["go right (mandatory)", 43],                              #43 Sağa Mecburi Yön
+    34 : ["go left (mandatory)", 75],                               #75 Sola Mecburi Yön
+    35 : ["go straight (mandatory)", 41],                           #41 İleri Mecburi Yön
+    36 : ["go right or straight (mandatory)", 1],                   #1 İleri Ve Sağa Mecburi Yön
+    37 : ["go left or straight (mandatory)", 14],                   #14 İleri Ve sola Mecburi Yön
+    38 : ["keep right (mandatory)", 18],                            #18 Sağdan Gidiniz
+    39 : ["keep left (mandatory)", 53],                             #53 Soldan Gidiniz
+    40 : ["roundabout (mandatory)", 27],                            #27 Ada Etrafında Dönünüz
+    41 : ["restriction ends (overtaking) (other)", 48],             #48 Geçme Yasağı Sonu
+    42 : ["restriction ends (overtaking (trucks)) (other)", 46]     #46 Kamyonlar için Geçme Yasağı Sonu
+
+}
