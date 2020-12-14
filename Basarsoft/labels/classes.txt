@@ -1,0 +1,96 @@
+Kasisli Yol
+İleri Ve Sağa Mecburi Yön
+Okul Geçidi (B-14b)
+Ana Yol Tali Yol (T-22b)
+Sola Tehlikeli Viraj
+Yaya Geçidi (B-14a)
+U Dönüşü Yapılmaz
+Hastane
+Akaryakıt İstasyonu
+Ana Yol Tali Yol (T-22a)
+Ana Yol Tali Yol Sağ
+Yaya Geçidi (T-11)
+Sola Dönülmez
+Okul Geçidi (T-12)
+İleri Ve Sola Mecburi Yön
+Gizli Buzlanma
+Ana Yol Tali Yol(T-22a)
+Sağa Tehlikeli Viraj
+Sağdan Gidiniz
+Gabari
+Tek Yönlü Yol
+Sağa Dönülmez
+Ana Yol Tali Yol Kavşağı (T-22a)
+Yön Levhası
+Ana Yol Tali Yol Kavşağı (T-22b)
+Park Etmek Yasaktır
+Işıklı İşaret Cihazı
+Ada Etrafında Dönünüz
+Ana Yol Tali Yol Kavşağı (T-22d)
+İleri Çıkmaz Yol
+Girişi Olmayan Yol
+Ana Yol Tali Yol (T-22d)
+Sağdan Daralan Kaplama
+Ana Yol Tali Yol (T-22c)
+Yol Ver
+Ana Yol
+Yük Taşıtlarının Öndeki Taşıtı Geçmesi Yasaktır
+Öndeki Taşıtı Geçmek Yasaktır
+Tehlike
+Çalışma Var
+Dur
+İleri Mecburi Yön
+Kaygan Yol
+Sağa Mecburi Yön
+Taşıt Trafiğine Kapalı Yol
+Trafik Lambası
+Kamyonlar için Geçme Yasağı Sonu
+Kamyon Giremez
+Geçme Yasağı Sonu
+Bisiklet Geçebilir
+Çıkmaz Yol
+İki Taraftan Daralan Kaplama
+Sınırlama Sonu
+Soldan Gidiniz
+Tehlikeli Viraj Yön Levhası
+Vahşi Hayvanlar Geçebilir
+Park Yeri
+Durak
+Azami Hız Sınırlaması 10
+Azami Hız Sınırlaması 20
+Azami Hız Sınırlaması 30
+Azami Hız Sınırlaması 40
+Azami Hız Sınırlaması 50
+Azami Hız Sınırlaması 60
+Azami Hız Sınırlaması 70
+Azami Hız Sınırlaması 82
+Hız Sınırlaması Sonu 20
+Yeşil Işık
+Kırmızı Işık
+Sarı Işık
+İleriden Sola Mecburi Yön
+İleriden Sağa Mecburi Yön
+Sağdan Ana Yola Giriş
+Her İki Yandan Gidiniz
+Duraklamak ve Park Etmek Yasaktır
+Sola Mecburi Yön
+Dönüş Adası Ek Levhası
+Refüj Başı Ek Levhası (Sol)
+Refüj Başı Ek Levhası (Sağ)
+Dönel Kavşak
+Yaya Üst Geçidi
+Sağa ve Sola Mecburi Yön
+Mecburi Bisiklet Yolu
+Engelli Park Yeri
+Elektronik Denetleme Sistemi
+Azami Hız Sınırlaması 120
+Mecburi Asgari Hız 40
+Onarım Yaklaşım Levhası
+Kontrolsüz Kavşak
+Mecburi Bisiklet Yolu Sonu
+U Dönüşü Levhası
+Sola Tehlikeli Devamlı Virajlar
+Bütün Yasaklama Ve Kısıtlamaların Sonu
+Hız Sınırlaması Sonu 80
+Azami Hız Sınırlaması 80
+Azami Hız Sınırlaması 100
