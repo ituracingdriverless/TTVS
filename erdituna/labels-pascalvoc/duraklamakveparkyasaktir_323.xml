@@ -1,0 +1,37 @@
+<annotation>
+	<folder>traffic-sign-data</folder>
+	<filename>duraklamakveparkyasaktir_323.jpg</filename>
+	<path>/traffic-sign-data/duraklamakveparkyasaktir_323.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1366</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>duraklamakveparkyasaktir</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>232</ymin>
+			<xmax>193</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>yayagecidi</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>720</xmin>
+			<ymin>228</ymin>
+			<xmax>779</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

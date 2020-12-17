@@ -1,0 +1,25 @@
+<annotation>
+	<folder>traffic-sign-data</folder>
+	<filename>yaya_gecidi_30.jpg</filename>
+	<path>/traffic-sign-data/yaya_gecidi_30.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1366</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>yayagecidi</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>200</ymin>
+			<xmax>242</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

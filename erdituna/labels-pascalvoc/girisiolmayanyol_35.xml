@@ -1,0 +1,25 @@
+<annotation>
+	<folder>traffic-sign-data</folder>
+	<filename>girisiolmayanyol_35.jpg</filename>
+	<path>/traffic-sign-data/girisiolmayanyol_35.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>girisiolmayanyol</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>1606</xmin>
+			<ymin>915</ymin>
+			<xmax>1744</xmax>
+			<ymax>1027</ymax>
+		</bndbox>
+	</object>
+</annotation>

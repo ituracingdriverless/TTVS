@@ -1,0 +1,25 @@
+<annotation>
+	<folder>traffic-sign-data</folder>
+	<filename>yol_ver_181.jpg</filename>
+	<path>/traffic-sign-data/yol_ver_181.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>yolver</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>1654</xmin>
+			<ymin>514</ymin>
+			<xmax>1851</xmax>
+			<ymax>656</ymax>
+		</bndbox>
+	</object>
+</annotation>
