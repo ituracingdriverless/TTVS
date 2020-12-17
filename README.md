@@ -37,6 +37,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 | Fesleğen           | 500          | 534    |
 | KU AIRS | 510 | 550 |
 | YTU AESK | 1171 | 2788 |
+| Btu Elektronomi | 500 | 500|
 | EVA Otonom | 846 | 1410 | 
 | BOUN BURST | 509 | 509 |
 | CUKUROVA Hidromobil | 1201 | 1764 |
