@@ -36,13 +36,14 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 | GTU           | 10919          | 15478    |
 | Fesleğen           | 500          | 534    |
 | KU AIRS | 510 | 550 |
+| Btu-Elektromobi | 500 | 500 |
 | YTU AESK | 1171 | 2788 |
 | EVA Otonom | 846 | 1410 | 
 | BOUN BURST | 509 | 509 |
 | CUKUROVA Hidromobil | 1201 | 1764 |
 | SavHascelik | 517 | 524 |
 | AITT | 515 | 652 |
-| Btu-Elektromobi | 500 | 500 |
+
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 
