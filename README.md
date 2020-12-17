@@ -2,8 +2,8 @@
 <a href="https://imgbb.com/"><img src="https://cdn.webshopapp.com/shops/94414/files/54949672/turkey-flag-icon-free-download.jpg" alt="turkey-flag-icon-32" border="0" height=32 ></a><small> Trafik İşaretleri Veri Seti </small> <br>
 <sub> <i> Veri seti paylaştıkça çoğalır! </i></sub>
 
-![Amount of Katılımcı 10](https://img.shields.io/badge/Katılımcı-10-green.svg)
-![Amount of labeled Görüntü 17949](https://img.shields.io/badge/Görüntü-17949-blue.svg)
+![Amount of Katılımcı 11](https://img.shields.io/badge/Katılımcı-10-green.svg)
+![Amount of labeled Görüntü 18452](https://img.shields.io/badge/Görüntü-17949-blue.svg)
 
 ## Veri setine nasıl erişebilirim?
 Bu veri setine erişebilmek için en az 500 adet görüntüyü etiketlemeniz gerekmektedir. Bu şekilde veri setimizin doğal bir şekilde büyümesini sağlıyoruz.
@@ -36,14 +36,13 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 | GTU           | 10919          | 15478    |
 | Fesleğen           | 500          | 534    |
 | KU AIRS | 510 | 550 |
-| Btu-Elektromobi | 500 | 500 |
 | YTU AESK | 1171 | 2788 |
+| Btu Elektronomi | 500 | 500|
 | EVA Otonom | 846 | 1410 | 
 | BOUN BURST | 509 | 509 |
 | CUKUROVA Hidromobil | 1201 | 1764 |
 | SavHascelik | 517 | 524 |
 | AITT | 515 | 652 |
-
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 
