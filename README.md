@@ -42,6 +42,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 | CUKUROVA Hidromobil | 1201 | 1764 |
 | SavHascelik | 517 | 524 |
 | AITT | 515 | 652 |
+| Btu-Elektromobi | 500 | 500 |
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 
