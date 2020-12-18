@@ -275,6 +275,21 @@ BURST = {
 
 # ConvertYolo(commonPath + "BURST/labels", BURST)
 
+BTU-Elektronomi = {
+	0:  ["Park yeri", 56],                            #0  Park Yeri
+	2:  ["Saga donulmez", 21],                        #2  Sağa Dönülmez
+	3:  ["Durak", 57],                                #3  Durak
+	5:  ["Tasit trafigine kapali yol", 44],           #5  Taşıt Trafiğine Kapalı Yol
+	7:  ["Azami hiz sinirlamasi (30 km/saat)", 60],   #7  Azami Hız Sınırlaması 30
+	8:  ["Ileri ve saga mecburi yon", 1],             #8  İleri ve Sağa Mecburi Yön
+	9:  ["Giris olmayan yol", 30],                    #9  Girişi Olmayan Yol 
+	10: ["Ileri ve sola mecburi yon", 14],            #10 İleri ve Sola Mecburi Yön
+	11: ["Dur", 40],                                  #11 Dur
+	12: ["Sola donulmez", 12],                        #12 Sola Dönülmez
+	13: ["Park etmek yasaktir", 25],                  #13 Park Etmek Yasaktır
+}
+
+# ConvertYolo(commonPath + "Btu-Elektronomi/labels", Btu-Elektronomi)
 Cukurova_Hidromobil = {
     0: ["Park", 56],                   #0 Park Yeri
     1: ["Park Yasak", 25],             #1 Park Etmek Yasaktır
