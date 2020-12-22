@@ -1,0 +1,26 @@
+<annotation>
+	<folder>traffic-sign</folder>
+	<filename>yaya17.JPG</filename>
+	<path>D:\d\traffic-sign\yaya17.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>745</width>
+		<height>703</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yaya gecidi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>321</xmin>
+			<ymin>312</ymin>
+			<xmax>376</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>traffic-sign</folder>
+	<filename>IMG_2448.JPG</filename>
+	<path>D:\d\traffic-sign\IMG_2448.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trafikisiklari</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>489</xmin>
+			<ymin>322</ymin>
+			<xmax>676</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+</annotation>

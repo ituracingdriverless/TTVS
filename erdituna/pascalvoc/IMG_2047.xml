@@ -1,0 +1,26 @@
+<annotation>
+	<folder>traffic-sign</folder>
+	<filename>IMG_2047.jpg</filename>
+	<path>D:\d\traffic-sign\IMG_2047.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ileri veya sola gidis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>517</xmin>
+			<ymin>612</ymin>
+			<xmax>560</xmax>
+			<ymax>660</ymax>
+		</bndbox>
+	</object>
+</annotation>

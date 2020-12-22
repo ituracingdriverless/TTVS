@@ -1,0 +1,26 @@
+<annotation>
+	<folder>traffic-sign</folder>
+	<filename>sagdangit44.JPG</filename>
+	<path>D:\d\traffic-sign\sagdangit44.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sagdan gidiniz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>181</ymin>
+			<xmax>208</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

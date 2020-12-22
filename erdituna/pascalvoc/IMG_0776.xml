@@ -1,0 +1,26 @@
+<annotation>
+	<folder>traffic-sign</folder>
+	<filename>IMG_0776.jpg</filename>
+	<path>D:\d\traffic-sign\IMG_0776.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sagdan gidiniz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>673</ymin>
+			<xmax>144</xmax>
+			<ymax>710</ymax>
+		</bndbox>
+	</object>
+</annotation>

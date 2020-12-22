@@ -1,0 +1,38 @@
+<annotation>
+	<folder>traffic-sign</folder>
+	<filename>IMG_4169.JPG</filename>
+	<path>D:\d\traffic-sign\IMG_4169.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kasisli yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>477</xmin>
+			<ymin>1328</ymin>
+			<xmax>2572</xmax>
+			<ymax>3259</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>yaya gecidi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2394</xmin>
+			<ymin>3337</ymin>
+			<xmax>2546</xmax>
+			<ymax>3506</ymax>
+		</bndbox>
+	</object>
+</annotation>

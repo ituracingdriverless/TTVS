@@ -1,0 +1,38 @@
+<annotation>
+	<folder>traffic-sign</folder>
+	<filename>IMG_1356.jpg</filename>
+	<path>D:\d\traffic-sign\IMG_1356.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kasisli yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>686</xmin>
+			<ymin>425</ymin>
+			<xmax>758</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>50km hiz siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>694</xmin>
+			<ymin>485</ymin>
+			<xmax>747</xmax>
+			<ymax>535</ymax>
+		</bndbox>
+	</object>
+</annotation>

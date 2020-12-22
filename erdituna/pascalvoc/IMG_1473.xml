@@ -1,0 +1,38 @@
+<annotation>
+	<folder>traffic-sign</folder>
+	<filename>IMG_1473.jpg</filename>
+	<path>D:\d\traffic-sign\IMG_1473.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sagdan gidiniz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>486</xmin>
+			<ymin>525</ymin>
+			<xmax>547</xmax>
+			<ymax>590</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>30km hiz siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>743</xmin>
+			<ymin>601</ymin>
+			<xmax>777</xmax>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+</annotation>

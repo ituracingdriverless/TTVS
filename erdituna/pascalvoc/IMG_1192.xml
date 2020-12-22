@@ -1,0 +1,38 @@
+<annotation>
+	<folder>traffic-sign</folder>
+	<filename>IMG_1192.jpg</filename>
+	<path>D:\d\traffic-sign\IMG_1192.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kasisli yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>546</xmin>
+			<ymin>639</ymin>
+			<xmax>580</xmax>
+			<ymax>684</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>70km hiz siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>547</xmin>
+			<ymin>692</ymin>
+			<xmax>572</xmax>
+			<ymax>718</ymax>
+		</bndbox>
+	</object>
+</annotation>

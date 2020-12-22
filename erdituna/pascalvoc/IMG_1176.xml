@@ -1,0 +1,38 @@
+<annotation>
+	<folder>traffic-sign</folder>
+	<filename>IMG_1176.jpg</filename>
+	<path>D:\d\traffic-sign\IMG_1176.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>50km hiz siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>525</ymin>
+			<xmax>171</xmax>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>50km hiz siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>697</xmin>
+			<ymin>502</ymin>
+			<xmax>724</xmax>
+			<ymax>538</ymax>
+		</bndbox>
+	</object>
+</annotation>

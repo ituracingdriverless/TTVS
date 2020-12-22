@@ -1,0 +1,26 @@
+<annotation>
+	<folder>traffic-sign</folder>
+	<filename>IMG_4195.JPG</filename>
+	<path>D:\d\traffic-sign\IMG_4195.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bir sonraki kavsaktan gir</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>49</ymin>
+			<xmax>528</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>

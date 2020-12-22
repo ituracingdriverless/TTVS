@@ -1,0 +1,26 @@
+<annotation>
+	<folder>traffic-sign</folder>
+	<filename>birsonrakikavsagagecishakk55.JPG</filename>
+	<path>D:\d\traffic-sign\birsonrakikavsagagecishakk55.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>544</width>
+		<height>509</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bir sonraki kavsaktan gir</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>251</ymin>
+			<xmax>348</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>
