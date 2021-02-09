@@ -2,8 +2,8 @@
 <a href="https://imgbb.com/"><img src="https://cdn.webshopapp.com/shops/94414/files/54949672/turkey-flag-icon-free-download.jpg" alt="turkey-flag-icon-32" border="0" height=32 ></a><small> Trafik İşaretleri Veri Seti </small> <br>
 <sub> <i> Veri seti paylaştıkça çoğalır! </i></sub>
 
-![Amount of Katılımcı 11](https://img.shields.io/badge/Katılımcı-11-green.svg)
-![Amount of labeled Görüntü 18452](https://img.shields.io/badge/Görüntü-18452-blue.svg)
+![Amount of Katılımcı 12](https://img.shields.io/badge/Katılımcı-12-green.svg)
+![Amount of labeled Görüntü 19085](https://img.shields.io/badge/Görüntü-19085-blue.svg)
 
 ## Veri setine nasıl erişebilirim?
 Bu veri setine erişebilmek için en az 500 adet görüntüyü etiketlemeniz gerekmektedir. Bu şekilde veri setimizin doğal bir şekilde büyümesini sağlıyoruz.
@@ -43,6 +43,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 | SavHascelik | 517 | 524 |
 | AITT | 515 | 652 |
 | BTU Elektronomi | 500 | 500|
+| SUBU-AISET | 633 | - |
 
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
