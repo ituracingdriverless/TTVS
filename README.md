@@ -43,7 +43,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 | SavHascelik | 517 | 524 |
 | AITT | 515 | 652 |
 | BTU Elektronomi | 500 | 500|
-| SUBU-AISET | 633 | - |
+| SUBU-AISET | 633 | 633 |
 
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
