@@ -2,8 +2,8 @@
 <a href="https://imgbb.com/"><img src="https://cdn.webshopapp.com/shops/94414/files/54949672/turkey-flag-icon-free-download.jpg" alt="turkey-flag-icon-32" border="0" height=32 ></a><small> Trafik İşaretleri Veri Seti </small> <br>
 <sub> <i> Veri seti paylaştıkça çoğalır! </i></sub>
 
-![Amount of Katılımcı 13](https://img.shields.io/badge/Katılımcı-13-green.svg)
-![Amount of labeled Görüntü 19635](https://img.shields.io/badge/Görüntü-19635-blue.svg)
+![Amount of Katılımcı 14](https://img.shields.io/badge/Katılımcı-14-green.svg)
+![Amount of labeled Görüntü 20235](https://img.shields.io/badge/Görüntü-20235-blue.svg)
 
 ## Veri setine nasıl erişebilirim?
 Bu veri setine erişebilmek için en az 500 adet görüntüyü etiketlemeniz gerekmektedir. Bu şekilde veri setimizin doğal bir şekilde büyümesini sağlıyoruz.
@@ -45,6 +45,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 | BTU Elektronomi | 500 | 500|
 | SUBU-AISET | 633 | 633 |
 | GobeklitepeOSAT | 550 | 744 |
+| ITU GAE | 600 | 954 |
 
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
@@ -61,6 +62,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 <img src="https://i.ibb.co/8Mnb2x0/aitt-logo.jpg" width="200" height='200'>
 <img src="https://i.ibb.co/Hhf8C1j/1608217690955.jpg" width="200" height='200'>
 <img src="https://i.ibb.co/Vxy2nJX/osat-gobeklitepe.jpg" width="200" height='200'>
+<img src="https://i.ibb.co/YWWMKy8/gaelogo.jpg" width="200" height='200'>
 
 ## Lisans
 Lisans metni: https://github.com/ituracingdriverless/TTVS/blob/master/cla.md
