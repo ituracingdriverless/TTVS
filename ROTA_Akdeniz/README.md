@@ -1,4 +1,4 @@
--Görüntüler ve etiketler aynı isimdedir.
+-510 adet görüntü etiketlenmiştir. Görüntüler ve etiketler aynı isimdedir.
 
 -Kullanım kolaylığı açısından etiket(label) dosyaları ayrı ayrı depolanmıştır.
 
