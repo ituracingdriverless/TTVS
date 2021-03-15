@@ -4,6 +4,8 @@
 
 -Etiketler YOLO formatındadır.
 
+-labels dosyalarındaki indisler aşağıdaki belirtildiği gibidir.
+
 0. azami_20
 1. azami_30
 2. dur
