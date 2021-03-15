@@ -1,5 +1,7 @@
 -Görüntüler ve etiketler aynı isimdedir.
+
 -Kullanım kolaylığı açısından etiket(label) dosyaları ayrı ayrı depolanmıştır.
+
 -Etiketler YOLO formatındadır.
 
 0. azami_20
