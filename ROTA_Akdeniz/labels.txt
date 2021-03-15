@@ -1,0 +1,14 @@
+azami_20
+azami_30
+dur
+giris_yok
+ilerden_saga_mecburi
+ilerden_sola_mecburi
+ileri_ve_sag
+ileri_ve_sol
+park
+park_edilemez
+saga_donulmez
+sola_donulmez
+trafige_kapali_yol
+
