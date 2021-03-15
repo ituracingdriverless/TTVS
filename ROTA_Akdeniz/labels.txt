@@ -1,14 +1,14 @@
-azami_20
-azami_30
-dur
-giris_yok
-ilerden_saga_mecburi
-ilerden_sola_mecburi
-ileri_ve_sag
-ileri_ve_sol
-park
-park_edilemez
-saga_donulmez
-sola_donulmez
-trafige_kapali_yol
+0 azami_20
+1 azami_30
+2 dur
+3 giris_yok
+4 ilerden_saga_mecburi
+5 ilerden_sola_mecburi
+6 ileri_ve_sag
+7 ileri_ve_sol
+8 park
+9 park_edilemez
+10 saga_donulmez
+11 sola_donulmez
+12 trafige_kapali_yol
 
