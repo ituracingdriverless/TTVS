@@ -47,6 +47,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 | GobeklitepeOSAT | 550 | 744 |
 | ITU GAE | 600 | 954 |
 | TTTech Auto Turkey | 624 | 1064 |
+| ROTA Akdeniz | 500 | 500
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 
@@ -64,6 +65,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 <img src="https://i.ibb.co/YWWMKy8/gaelogo.jpg" width="200" height='200'>
 <img src="https://i.ibb.co/D8N83ZL/tttech-auto-s.jpg" width="200" height='200'>
 <img src="https://i.ibb.co/Vxy2nJX/osat-gobeklitepe.jpg" width="200" height='200'>
+<img src="https://i.ibb.co/Njs6byX/rota.jpg" width="200" height='200'></a>
 
 ## Lisans
 Lisans metni: https://github.com/ituracingdriverless/TTVS/blob/master/cla.md
