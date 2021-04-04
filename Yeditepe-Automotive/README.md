@@ -1,6 +1,7 @@
 # Yeditepe Automotive Türkiye Trafik İşaretleri Veri Seti
 
 
+
 Veri setimizin etiketleri YOLO formatına uygundur.
 
 ### Class Names
