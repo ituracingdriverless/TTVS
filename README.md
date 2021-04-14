@@ -2,8 +2,8 @@
 <a href="https://imgbb.com/"><img src="https://cdn.webshopapp.com/shops/94414/files/54949672/turkey-flag-icon-free-download.jpg" alt="turkey-flag-icon-32" border="0" height=32 ></a><small> Trafik İşaretleri Veri Seti </small> <br>
 <sub> <i> Veri seti paylaştıkça çoğalır! </i></sub>
 
-![Amount of Katılımcı 16](https://img.shields.io/badge/Katılımcı-16-green.svg)
-![Amount of labeled Görüntü 21359](https://img.shields.io/badge/Görüntü-21359-blue.svg)
+![Amount of Katılımcı 17](https://img.shields.io/badge/Katılımcı-17-green.svg)
+![Amount of labeled Görüntü 21881](https://img.shields.io/badge/Görüntü-21881-blue.svg)
 
 ## Veri setine nasıl erişebilirim?
 Bu veri setine erişebilmek için en az 500 adet görüntüyü etiketlemeniz gerekmektedir. Bu şekilde veri setimizin doğal bir şekilde büyümesini sağlıyoruz.
