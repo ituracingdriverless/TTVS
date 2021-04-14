@@ -67,7 +67,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 <img src="https://i.ibb.co/YWWMKy8/gaelogo.jpg" width="200" height='200'>
 <img src="https://i.ibb.co/D8N83ZL/tttech-auto-s.jpg" width="200" height='200'>
 <img src="https://i.ibb.co/Njs6byX/rota.jpg" width="200" height='200'></a>
-<img src="https://i.ibb.co/9HFjXcJ/team-imu.jpg" width="200" height='200'></a>
+<img src="https://i.ibb.co/DYh3Zkp/team-imu2.jpg" width="200" height='200'></a>
 <img src="https://i.ibb.co/Vxy2nJX/osat-gobeklitepe.jpg" width="200" height='200'>
 
 
