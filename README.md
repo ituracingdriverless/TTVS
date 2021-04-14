@@ -49,7 +49,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 | TTTech Auto Turkey | 624 | 1064 |
 | ROTA Akdeniz | 500 | 500
 | Yeditepe Automotive | 522 | 659 |
-| Team IMU | 520 | ... |
+| Team IMU | 520 | - |
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 
