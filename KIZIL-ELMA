@@ -1,0 +1,14 @@
+Veri setimiz YOLO formatındadır ve id'leri aşağıdaki gibidir.
+
+Park:1
+Durak:2
+Park Yapılamaz:3
+İleriden sağa mecbur:4
+İleriden sola mecburi:5
+İleri veya sağa mecburi yön:6
+İleri veya sola mecburi yön:7
+Dur:8
+Sağa Dönülmez:9
+Sola Dönülmez:10
+Girilmez:11
+Taşıt Trafiğine Kapalı Yol:12
