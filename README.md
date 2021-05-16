@@ -50,6 +50,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 | ROTA Akdeniz | 500 | 500
 | Yeditepe Automotive | 522 | 659 |
 | Team IMU | 520 | 714 |
+| Diriliş ve Medeniyet | 543 | 872 |
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 
@@ -69,6 +70,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 <img src="https://i.ibb.co/Njs6byX/rota.jpg" width="200" height='200'></a>
 <img src="https://i.ibb.co/DYh3Zkp/team-imu2.jpg" width="200" height='200'></a>
 <img src="https://i.ibb.co/Vxy2nJX/osat-gobeklitepe.jpg" width="200" height='200'>
+<img src="https://i.hizliresim.com/587kqva.png" width="200" height='200'>
 
 
 ## Lisans
