@@ -2,8 +2,8 @@
 <a href="https://imgbb.com/"><img src="https://cdn.webshopapp.com/shops/94414/files/54949672/turkey-flag-icon-free-download.jpg" alt="turkey-flag-icon-32" border="0" height=32 ></a><small> Trafik İşaretleri Veri Seti </small> <br>
 <sub> <i> Veri seti paylaştıkça çoğalır! </i></sub>
 
-![Amount of Katılımcı 20](https://img.shields.io/badge/Katılımcı-20-green.svg)
-![Amount of labeled Görüntü 23448](https://img.shields.io/badge/Görüntü-23448-blue.svg)
+![Amount of Katılımcı 21](https://img.shields.io/badge/Katılımcı-21-green.svg)
+![Amount of labeled Görüntü 24212](https://img.shields.io/badge/Görüntü-24212-blue.svg)
 
 ## Veri setine nasıl erişebilirim?
 Bu veri setine erişebilmek için en az 500 adet görüntüyü etiketlemeniz gerekmektedir. Bu şekilde veri setimizin doğal bir şekilde büyümesini sağlıyoruz.
@@ -52,6 +52,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 | Team IMU | 520 | 714 |
 | Kasva | 543 | 872 |
 | Raclab Sigun | 504 | 523 |
+| ACAR | 764 | 897 |
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 
 <img src="https://img.techpowerup.org/200320/gtu-logo.png" width="250" height='200'>
@@ -70,8 +71,8 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 <img src="https://i.ibb.co/Njs6byX/rota.jpg" width="200" height='200'></a>
 <img src="https://i.ibb.co/DYh3Zkp/team-imu2.jpg" width="200" height='200'></a>
 <img src="https://i.hizliresim.com/587kqva.png" width="200" height='200'>
+<img src="https://i.ibb.co/gSNT7rb/logopng.png" width="200" height='200'>
 <img src="https://i.ibb.co/Vxy2nJX/osat-gobeklitepe.jpg" width="200" height='200'>
-
 
 ## Lisans
 Lisans metni: https://github.com/ituracingdriverless/TTVS/blob/master/cla.md
