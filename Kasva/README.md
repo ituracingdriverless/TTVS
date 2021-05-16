@@ -3,7 +3,9 @@
 Verisetimiz simülasyon(sentetik) veri ve gerçek hayat verisi olmak üzere iki ayrı parçadan oluşmaktadır. Verisetimiz YOLO formatında hazırlanmıştır.
 
 !:Trafik Lambasi sınıfı kırmızı,yeşil,sarı ışık ayırt etmeksizin etiketlenmiştir.
+
 !: Simülasyon verisi Carla simülasyon ortamından toplanmıştır ve sadece ilk 9 sınıfı içermektedir.
+
 !:Her klasörün altında ne kadar görüntü ve etiket içerdiği belirtilmiştir.
 
 TOPLAM GÖRÜNTÜ SAYISI: 543  
