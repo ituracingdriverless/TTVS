@@ -53,7 +53,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 | Kasva | 543 | 872 |
 | Raclab Sigun | 504 | 523 |
 | ACAR | 764 | 897 |
-| YTU Astrid | 574 | 574 |
+| YTU Astrid | 572 | 572 |
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 
