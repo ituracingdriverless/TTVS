@@ -69,6 +69,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 <img src="https://i.ibb.co/Njs6byX/rota.jpg" width="200" height='200'></a>
 <img src="https://i.ibb.co/DYh3Zkp/team-imu2.jpg" width="200" height='200'></a>
 <img src="https://i.ibb.co/Vxy2nJX/osat-gobeklitepe.jpg" width="200" height='200'>
+<img src="https://user-images.githubusercontent.com/60902294/117417813-65b4dc80-af23-11eb-8092-7696a2c0b2b8.png" width="225" height='100'>
 
 
 ## Lisans
