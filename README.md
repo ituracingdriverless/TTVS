@@ -53,6 +53,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 | Kasva | 543 | 872 |
 | Raclab Sigun | 504 | 523 |
 | ACAR | 764 | 897 |
+| YTU-Astrid | 1109 | 1109 |
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 
@@ -74,6 +75,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 <img src="https://i.hizliresim.com/587kqva.png" width="200" height='200'>
 <img src="https://i.ibb.co/gSNT7rb/logopng.png" width="200" height='200'>
 <img src="https://i.ibb.co/Vxy2nJX/osat-gobeklitepe.jpg" width="200" height='200'>
+<img src="https://i.ibb.co/xmqBypX/YTU-Astrid.jpg" width="200" height='200' >
 
 ## Lisans
 Lisans metni: https://github.com/ituracingdriverless/TTVS/blob/master/cla.md
