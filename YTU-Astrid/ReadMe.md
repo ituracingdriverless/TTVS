@@ -1,28 +1,28 @@
-#YTU Astrid Trafik Levha ve Trafik Işığı Veriseti
+<h1>YTU Astrid Trafik Levha ve Trafik Işığı Veriseti<h1>
 
--Dataset tek parça halindedir.
--Datasetin formatı YOLO için txt formatındadır.
--Sınıf numarası belirtilmiştir.
+<br>-Dataset tek parça halindedir.<br>
+<br>-Datasetin formatı YOLO için txt formatındadır.<br>
+<br>-Sınıf numarası belirtilmiştir.<br>
 
 
 
-#YOLO Class Names
+<h2>YOLO Class Names<h2>
 
-0: 20-km
-1: 30-km
-2: dur
-3: giris-yok
-4: ileri-saga
-5: ileri-sola
-6: ileriden-saga
-7: ileriden-sola
-8: isik-kirmizi
-9: isik-sari
-10: isik-yesil
-11: tasita-kapali
-12: yasak-sag
-13: yasak-sol
-14: durak
-15: yasak-park
-16: park
-17: 20-km-sonu
+<br>0: 20-km<br>
+<br>1: 30-km<br>
+<br>2: dur<br>
+<br>3: giris-yok<br>
+<br>4: ileri-saga<br>
+<br>5: ileri-sola<br>
+<br>6: ileriden-saga<br>
+<br>7: ileriden-sola<br>
+<br>8: isik-kirmizi<br>
+<br>9: isik-sari<br>
+<br>10: isik-yesil<br>
+<br>11: tasita-kapali<br>
+<br>12: yasak-sag<br>
+<br>13: yasak-sol<br>
+<br>14: durak<br>
+<br>15: yasak-park<br>
+<br>16: park<br>
+<br>17: 20-km-sonu<br>
