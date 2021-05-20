@@ -1,0 +1,22 @@
+Etiketlerimiz yolo formatındadır ve idleri aşağıdaki gibidir;
+
+0-kirmizi isik
+1-park
+2-durak
+3-park yapilamaz
+4-ileriden saga mecburi
+5-ileriden sola mecburi
+6-ileriden veya saga mecburi yon
+7-ileriden veya sola mecburi yon
+8-dur
+9-saga donulemez
+10-sola donulmez
+11-girilmez
+12-tasit trafigine kapali yol
+13-sari isik
+14-yeşil ışık
+15-20 hiz siniri
+16-30 hiz siniri
+17-düz git
+
+
