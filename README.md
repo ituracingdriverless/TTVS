@@ -2,8 +2,8 @@
 <a href="https://imgbb.com/"><img src="https://cdn.webshopapp.com/shops/94414/files/54949672/turkey-flag-icon-free-download.jpg" alt="turkey-flag-icon-32" border="0" height=32 ></a><small> Trafik İşaretleri Veri Seti </small> <br>
 <sub> <i> Veri seti paylaştıkça çoğalır! </i></sub>
 
-![Amount of Katılımcı 22](https://img.shields.io/badge/Katılımcı-22-green.svg)
-![Amount of labeled Görüntü 25490](https://img.shields.io/badge/Görüntü-25490-blue.svg)
+![Amount of Katılımcı 23](https://img.shields.io/badge/Katılımcı-23-green.svg)
+![Amount of labeled Görüntü 25990](https://img.shields.io/badge/Görüntü-25990-blue.svg)
 
 ## Veri setine nasıl erişebilirim?
 Bu veri setine erişebilmek için en az 500 adet görüntüyü etiketlemeniz gerekmektedir. Bu şekilde veri setimizin doğal bir şekilde büyümesini sağlıyoruz.
@@ -54,6 +54,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 | Raclab Sigun | 504 | 523 |
 | ACAR | 764 | 897 |
 | Kızılelma | 1278 | 1996 |
+| ROTA Marmara | 500 | 500 |
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 
@@ -76,6 +77,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 <img src="https://i.ibb.co/gSNT7rb/logopng.png" width="200" height='200'>
 <img src="https://i.ibb.co/Vxy2nJX/osat-gobeklitepe.jpg" width="200" height='200'>
 <img src="https://user-images.githubusercontent.com/60902294/117417813-65b4dc80-af23-11eb-8092-7696a2c0b2b8.png" width="200" height='100'>
+<img src="https://i.ibb.co/Tb3xVKs/logo.png" width="200" height='200'>
 
 ## Lisans
 Lisans metni: https://github.com/ituracingdriverless/TTVS/blob/master/cla.md
