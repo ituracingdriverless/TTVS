@@ -75,7 +75,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 <img src="https://i.hizliresim.com/587kqva.png" width="200" height='200'>
 <img src="https://i.ibb.co/gSNT7rb/logopng.png" width="200" height='200'>
 <img src="https://i.ibb.co/Vxy2nJX/osat-gobeklitepe.jpg" width="200" height='200'>
-<img src="https://user-images.githubusercontent.com/60902294/117417813-65b4dc80-af23-11eb-8092-7696a2c0b2b8.png" width="225" height='100'>
+<img src="https://user-images.githubusercontent.com/60902294/117417813-65b4dc80-af23-11eb-8092-7696a2c0b2b8.png" width="200" height='100'>
 
 ## Lisans
 Lisans metni: https://github.com/ituracingdriverless/TTVS/blob/master/cla.md
