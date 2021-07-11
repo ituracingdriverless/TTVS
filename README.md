@@ -56,7 +56,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 | Kızılelma | 1278 | 1996 |
 | ROTA Marmara | 500 | 500 |
 | YTU Astrid | 572 | 579 |
-| Duscart Dumlupınar | 843 | ... |
+| Duscart Dumlupınar | 843 | 993 |
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 
@@ -80,6 +80,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 <img src="https://user-images.githubusercontent.com/60902294/117417813-65b4dc80-af23-11eb-8092-7696a2c0b2b8.png" width="200" height='150'>
 <img src="https://i.ibb.co/Tb3xVKs/logo.png" width="200" height='200'>
 <img src="https://i.ibb.co/gvZfG5m/YTU-Astrid.jpg" width="200" height='200'>
+<img src="https://i.ibb.co/9cK1Kyp/DUSCART.jpg" width="200" height='200'>
 <img src="https://i.ibb.co/Vxy2nJX/osat-gobeklitepe.jpg" width="200" height='200'>
 
 ## Lisans
