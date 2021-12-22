@@ -5,6 +5,8 @@
 ![Amount of Katılımcı 25](https://img.shields.io/badge/Katılımcı-25-green.svg)
 ![Amount of labeled Görüntü 27405](https://img.shields.io/badge/Görüntü-27405-blue.svg)
 
+### Veri seti kullanıma tekrar açılmışyır!!
+
 ## Veri setine nasıl erişebilirim?
 Bu veri setine erişebilmek için en az 500 adet görüntüyü etiketlemeniz gerekmektedir. Bu şekilde veri setimizin doğal bir şekilde büyümesini sağlıyoruz.
 
