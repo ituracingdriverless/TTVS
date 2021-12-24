@@ -4,7 +4,6 @@
 Simulasyon Verisi(Sentetik):
 
 !:Trafik Lambasi sınıfı kırmızı,yeşil,sarı ışık ayırt etmeksizin etiketlenmiştir.
-
 !: Simülasyon verisi Carla simülasyon ortamından toplanmıştır ve sadece ilk 9 sınıfı içermektedir.
 
 
