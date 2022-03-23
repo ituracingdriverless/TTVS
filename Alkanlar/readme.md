@@ -31,3 +31,5 @@
 9- engelli_park_yeri
 
 10- tasit_trafigine_kapali_yol
+
+11- azami_hiz_sinirlamasi_20
