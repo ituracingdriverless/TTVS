@@ -1,0 +1,14 @@
+girisi_olmayan_yol
+azami_hiz_sinirlamasi_30
+yaya_gecidi
+park
+trafik_isigi
+park_yasaktir
+ileri_ve_saga_mecburi_yon
+saga_donulmez
+sola_donulmez
+azami_hiz_sinirlamasi_20
+dur
+ada_etrafinda_donus
+ileri_ve_sola_mecburi_yon
+durak
