@@ -61,7 +61,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 | Duscart Dumlupınar | 843 | 993 |
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
-
+<!---
 <img src="https://img.techpowerup.org/200320/gtu-logo.png" width="250" height='200'>
 <br>
 <img src="https://img.techpowerup.org/200529/air.png" width="200" height='200'>
@@ -71,6 +71,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 <img src="https://img.techpowerup.org/200814/download.png" width="200" height='200'>
 <img src="https://img.techpowerup.org/200816/evalogo.png" width="200" height='200'>
 <img src="https://img.techpowerup.org/201112/hydromobilelogotransparan.png" width="200" height='200'>
+-->
 <img src="https://i.ibb.co/8Mnb2x0/aitt-logo.jpg" width="200" height='200'>
 <img src="https://i.ibb.co/Hhf8C1j/1608217690955.jpg" width="200" height='200'>
 <img src="https://i.ibb.co/YWWMKy8/gaelogo.jpg" width="200" height='200'>
