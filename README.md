@@ -2,8 +2,8 @@
 <a href="https://imgbb.com/"><img src="https://cdn.webshopapp.com/shops/94414/files/54949672/turkey-flag-icon-free-download.jpg" alt="turkey-flag-icon-32" border="0" height=32 ></a><small> Trafik İşaretleri Veri Seti </small> <br>
 <sub> <i> Veri seti paylaştıkça çoğalır! </i></sub>
 
-![Amount of Katılımcı 29](https://img.shields.io/badge/Katılımcı-29-green.svg)
-![Amount of labeled Görüntü 31527](https://img.shields.io/badge/Görüntü-31527-blue.svg)
+![Amount of Katılımcı 30](https://img.shields.io/badge/Katılımcı-30-green.svg)
+![Amount of labeled Görüntü 32661](https://img.shields.io/badge/Görüntü-32661-blue.svg)
 
 #### Veri seti kullanıma tekrar açılmıştır!!
 
@@ -59,6 +59,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 | ROTA Marmara | 500 | 500 |
 | YTU Astrid | 572 | 579 |
 | Duscart Dumlupınar | 843 | 993 |
+| HK Tech | 1134 | 1744 |
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 <!---
@@ -85,6 +86,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 <img src="https://i.ibb.co/gvZfG5m/YTU-Astrid.jpg" width="200" height='200'>
 <img src="https://i.ibb.co/9cK1Kyp/DUSCART.jpg" width="200" height='200'>
 <img src="https://i.ibb.co/Vxy2nJX/osat-gobeklitepe.jpg" width="200" height='200'>
+<img src="https://i.ibb.co/6m8p1MN/hktech-square.png" width="200" height='200'>
 
 ## Lisans
 Lisans metni: https://github.com/ituracingdriverless/TTVS/blob/master/cla.md
