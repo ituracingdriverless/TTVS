@@ -1,0 +1,3 @@
+0 yeşil ışık
+1 kırmızı ışık
+2 yaya geçidi
