@@ -738,6 +738,19 @@ YTU_Astrid = {
     17: ["20-km-sonu", 66],
 }
 
+Nova_Drive = {
+    0 : ["Dur",40],
+    1 : ["Sağa dönülmez",21],
+    2 : ["Sola dönülmez",12],
+    3 : ["Giris olmayan yol",30],
+    4 : ["Park etmek yasak 1",25],
+    5 : ["Park yeri",56],
+    6 : ["Sağdan gidiniz",18],
+    7 : ["Park etmek yasak 2",74],
+    8 : ["İleri ve Sag'a mecburi yön",1], 
+    9 : ["İleri ve Sol'a mecburi yön",14]
+}
+
 #ConvertCsvtoYolo(commonPath + "Basarsoft/Sag")
 #ConvertCsvtoYolo(commonPath + "Basarsoft/Sol")
 
