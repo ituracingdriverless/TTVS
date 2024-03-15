@@ -808,3 +808,5 @@ ConvertYolo(commonPath + "TTTechAuto/labels", TTTechAuto)
 ConvertYolo(commonPath + "Yeditepe-Automotive/labels", Yeditepe_Automotive)
 
 ConvertYolo(commonPath + "YTU-Astrid/labels", YTU_Astrid)
+
+ConvertYolo(commonPath + "Nova Drive/labels", Nova_Drive)
