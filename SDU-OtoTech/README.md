@@ -38,9 +38,15 @@
 14.ileri_sol_mecburi
 
 15.duraklamak_park_yasak
+
 16.park_yasak
+
 17.dur_stop
+
 18.sag_mecburi
+
 19.park_engelli
+
 20.gidis_donus
+
 21.sol_mecburi
