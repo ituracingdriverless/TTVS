@@ -1,0 +1,21 @@
+0 kirmiziisik
+1 sariisik
+2 yesilisik
+3 dur
+4 girilmez
+5 sagadon
+6 soladon
+7 ileridensagadon
+8 ileridensoladon
+9 ilerivesoladon
+10 ilerivesagadon
+11 sagadonulmez
+12 soladonulmez
+13 yayagecidi
+14 donelkavsak
+15 durak
+16 park
+17 parkyapilmaz (X)
+18 parkyapilmaz (/)
+18 buradangidiniz
+19 uyasak
