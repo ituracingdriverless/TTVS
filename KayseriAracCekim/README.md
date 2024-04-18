@@ -1,0 +1,24 @@
+# Veri Seti
+0:3mOmegaDirek
+1:T-33aTehlikeliViraj
+2:TT-29a-30AzamiHizSinirlamasi
+3:Delinator
+4:SacLevha
+5:TT-2Dur
+6:TT-35dileriveSagMecburiYon
+7:T-22bAnayolSagdanTaliYol
+8:B-14aYayaGecidi
+9:TT-36aSagdanGidiniz
+10:T-1bSolaTehlikeliViraj
+11:T-22aAnayolTaliyolciftli
+12:T-35DonusAdasicavus
+13:TT-35eileriSolaMecburiYon
+14:T-24DonelKavsakYaklasimi
+15:TT-1Yolver
+16:TT-37Adaetrafindadonunuz
+17:T-33fOnarimYaklasimLevhasi
+18:T-7KasisliYol
+19:Yonlevhasi40x160
+20:T-31bKopruBasiLevhasi_Sol_
+21:T-2bSolaTehlikeliDevamliViraj
+22:TT-27ondekiTasitiGecmekYasaktir
