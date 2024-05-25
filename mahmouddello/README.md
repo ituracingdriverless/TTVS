@@ -1,0 +1,45 @@
+# Dataset
+* 41 sınıftan oluşmaktadır
+* YOLO formatındadır
+
+0. hizSiniri30
+1. hizSiniri50
+2. hizSiniri60
+3. hizSiniri70
+4. hizSiniri90
+5. sonraki_kavsak_gecis_hakki
+6. buzlanma
+7. dur
+8. duz_veya_sag
+9. duz_veya_sol
+10. engebeli_yol
+11. gecis_yask_sonu
+12. gecis_yasak
+13. genel_uyari
+14. saga_teklikeli_viraj
+15. kaygan_yol
+16. oncelikli_yol
+17. saga_tehlikeli_yol
+18. mecburi_sag
+19. sola_tehlikeli_viraj
+20. mecburi_sol
+21. trafik_isiklari
+22. yayalar
+23. yol_calismasi
+24. yol_ver
+25. zorunlu_doner_kavsak
+26. u_donusu
+27. u_donusu_yasak
+28. gesek_yamac
+29. 4.80_metreden_yuksek_arac_giremez
+30. gesek_malzemeli_yol
+31. ehli_hayvan_gecebilir
+32. yaya_gecidi
+33. duraklamak_veya_park_yasak
+34. mecburi_sag_veya_sol
+35. sola_tehlikeli_viraj
+36. okul_gecidi
+37. eds
+38. egimli_yol
+39. yol_daralmasi
+40. sagdan_ana_yola_giris
