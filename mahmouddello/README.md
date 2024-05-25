@@ -1,5 +1,5 @@
 # Dataset
-* 41 sınıftan oluşmaktadır
+* 45 sınıftan oluşmaktadır
 * YOLO formatındadır
 
 0. hizSiniri30
@@ -38,8 +38,12 @@
 33. duraklamak_veya_park_yasak
 34. mecburi_sag_veya_sol
 35. sola_tehlikeli_viraj
-36. okul_gecidi
+36. okul_gecidi(t-12)
 37. eds
-38. egimli_yol
-39. yol_daralmasi
+38. tehlikeli_egim_cikis
+39. iki_yandan_yol_daralmasi
 40. sagdan_ana_yola_giris
+41. tehlikeli_egim_inis
+42. okul_gecidi_B-14b
+43. sagdan_yol_daralmasi
+44. soldan_yol_daralmasi
