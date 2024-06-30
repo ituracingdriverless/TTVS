@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>002_0011_j.png</filename>
+  <path>C:\Users\Casper\Downloads\OpenLabeling-master\OpenLabeling-master\main\input\002_0011_j.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>124</width>
+    <height>117</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>max_hiz_30</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>15</xmin>
+      <ymin>20</ymin>
+      <xmax>94</xmax>
+      <ymax>90</ymax>
+    </bndbox>
+  </object>
+</annotation>
