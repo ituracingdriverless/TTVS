@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>dur_199.jpg</filename>
+  <path>C:\Users\Casper\Downloads\OpenLabeling-master\OpenLabeling-master\main\input\dur_199.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>668</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>arac_dur_isareti</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>19</xmin>
+      <ymin>46</ymin>
+      <xmax>463</xmax>
+      <ymax>620</ymax>
+    </bndbox>
+  </object>
+</annotation>
