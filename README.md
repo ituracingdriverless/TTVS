@@ -61,6 +61,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 | Duscart Dumlupınar | 843 | 993 |
 | HK Tech | 1134 | 1744 |
 | Simsek Mcqueen | 501 | 829 | 
+| AI2X | 796 | 1872 |
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 <!---
