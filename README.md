@@ -62,6 +62,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 | HK Tech | 1134 | 1744 |
 | Simsek Mcqueen | 501 | 829 | 
 | AI2X | 796 | 1872 |
+| UludagOTAGG | 500 | 1222
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 <!---
@@ -89,6 +90,7 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 <img src="https://i.ibb.co/9cK1Kyp/DUSCART.jpg" width="200" height='200'>
 <img src="https://i.ibb.co/Vxy2nJX/osat-gobeklitepe.jpg" width="200" height='200'>
 <img src="https://i.ibb.co/6m8p1MN/hktech-square.png" width="200" height='200'>
+<img src="https://i.ibb.co/6cnSymf1/otagg-Logo.png" width="200" height='200'>
 
 ## Lisans
 Lisans metni: https://github.com/ituracingdriverless/TTVS/blob/master/cla.md
