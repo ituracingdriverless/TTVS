@@ -1,0 +1,39 @@
+kasisli yol
+yaya gecidine yaklasma
+okul gecidine yaklasma 
+yaya gecidi
+okul gecidi
+trafik isigi 
+iki yönlü trafik
+dikkat
+yol ver
+dur
+giris olmayan yol
+saga donulmez
+sola donulmez 
+u donusu yasak
+azami hiz 20
+azami hiz 30
+azami hiz 50
+saga mecburi yon 
+sola mecburi yon
+ileri ve saga mecburi yon 
+ileri ve sola mecburi yon
+durak
+park yasak
+duraklamak ve park etmek yasak
+kirmizi isik 
+sari isik
+yesil isik
+sagdan gidiniz
+soldan gidiniz
+tek yon
+park yeri taksi
+park yeri
+ana yol tali kavsagi
+saga ve sola mecburi yon
+ada etrafinda donunuz
+donel kavsak
+
+
+
