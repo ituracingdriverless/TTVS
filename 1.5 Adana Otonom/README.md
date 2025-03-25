@@ -1,7 +1,7 @@
 # YOLO Veri Seti Bilgilendirme
 
 ## Veri Seti Genel Bakış
-Bu veri seti, YOLO (You Only Look Once) nesne tespiti modelleri için formatlanmıştır. Toplamda **500 etiketlenmiş görüntü** ve bunlara karşılık gelen `.txt` formatındaki açıklama dosyalarını içerir. Her etiket dosyası YOLO formatına uygundur ve sınıf isimleri aşağıda belirtilmiştir.
+Bu veri seti, YOLO (You Only Look Once) nesne tespiti modelleri için formatlanmıştır. Toplamda **559 etiketlenmiş görüntü** ve bunlara karşılık gelen `.txt` formatındaki açıklama dosyalarını içerir. Her etiket dosyası YOLO formatına uygundur ve sınıf isimleri aşağıda belirtilmiştir.
 
 ## YOLO Sınıf İsimleri
 ```
