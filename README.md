@@ -2,8 +2,8 @@
 <a href="https://imgbb.com/"><img src="https://cdn.webshopapp.com/shops/94414/files/54949672/turkey-flag-icon-free-download.jpg" alt="turkey-flag-icon-32" border="0" height=32 ></a><small> Trafik İşaretleri Veri Seti </small> <br>
 <sub> <i> Veri seti paylaştıkça çoğalır! </i></sub>
 
-![Amount of Katılımcı 30](https://img.shields.io/badge/Katılımcı-30-green.svg)
-![Amount of labeled Görüntü 32661](https://img.shields.io/badge/Görüntü-32661-blue.svg)
+![Amount of Katılımcı 31](https://img.shields.io/badge/Katılımcı-30-green.svg)
+![Amount of labeled Görüntü 33171](https://img.shields.io/badge/Görüntü-32661-blue.svg)
 
 #### Veri seti kullanıma tekrar açılmıştır!!
 
@@ -32,37 +32,38 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 ## Katılımcılar
 
 
-| Katılımcı     | Görüntü       | Etiket |
-| -------------          |:-------------:| -----: |
-| ITU Racing Driverless    | 1264          | 3047   |[url=https://hizliresim.com/Kq0T6y][img]https://i.hizliresim.com/Kq0T6y.png[/img][/url]
-| GTU           | 10919          | 15478    |
-| Fesleğen           | 500          | 534    |
-| KU AIRS | 510 | 550 |
-| YTU AESK | 1171 | 2788 |
-| EVA Otonom | 846 | 1410 | 
-| BOUN BURST | 509 | 509 |
-| CUKUROVA Hidromobil | 1201 | 1764 |
-| SavHascelik | 517 | 524 |
-| AITT | 515 | 652 |
-| BTU Elektronomi | 500 | 500|
-| SUBU-AISET | 633 | 633 |
-| GobeklitepeOSAT | 550 | 744 |
-| ITU GAE | 600 | 954 |
-| TTTech Auto Turkey | 624 | 1064 |
-| ROTA Akdeniz | 500 | 500
-| Yeditepe Automotive | 522 | 659 |
-| Team IMU | 520 | 714 |
-| Kasva | 543 | 872 |
-| Raclab Sigun | 504 | 523 |
-| ACAR | 764 | 897 |
-| Kızılelma | 1278 | 1996 |
-| ROTA Marmara | 500 | 500 |
-| YTU Astrid | 572 | 579 |
-| Duscart Dumlupınar | 843 | 993 |
-| HK Tech | 1134 | 1744 |
-| Simsek Mcqueen | 501 | 829 | 
-| AI2X | 796 | 1872 |
-| UludagOTAGG | 500 | 1222
+| Katılımcı                   | Görüntü | Etiket |
+|-----------------------------|:-------:| -----: |
+| ITU Racing Driverless       |  1264   | 3047   |[url=https://hizliresim.com/Kq0T6y][img]https://i.hizliresim.com/Kq0T6y.png[/img][/url]
+| GTU                         |  10919  | 15478    |
+| Fesleğen                    |   500   | 534    |
+| KU AIRS                     |   510   | 550 |
+| YTU AESK                    |  1171   | 2788 |
+| EVA Otonom                  |   846   | 1410 | 
+| BOUN BURST                  |   509   | 509 |
+| CUKUROVA Hidromobil         |  1201   | 1764 |
+| SavHascelik                 |   517   | 524 |
+| AITT                        |   515   | 652 |
+| BTU Elektronomi             |   500   | 500|
+| SUBU-AISET                  |   633   | 633 |
+| GobeklitepeOSAT             |   550   | 744 |
+| ITU GAE                     |   600   | 954 |
+| TTTech Auto Turkey          |   624   | 1064 |
+| ROTA Akdeniz                |   500   | 500
+| Yeditepe Automotive         |   522   | 659 |
+| Team IMU                    |   520   | 714 |
+| Kasva                       |   543   | 872 |
+| Raclab Sigun                |   504   | 523 |
+| ACAR                        |   764   | 897 |
+| Kızılelma                   |  1278   | 1996 |
+| ROTA Marmara                |   500   | 500 |
+| YTU Astrid                  |   572   | 579 |
+| Duscart Dumlupınar          |   843   | 993 |
+| HK Tech                     |  1134   | 1744 |
+| Simsek Mcqueen              |   501   | 829 | 
+| AI2X                        |   796   | 1872 |
+| UludagOTAGG                 |   500   | 1222 |
+| AKÜ Bilgisayar Mühendisliği |   510   | 597 |
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 <!---
