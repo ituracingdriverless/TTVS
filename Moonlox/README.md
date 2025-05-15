@@ -1,6 +1,8 @@
 ## Moonlox Trafik Levha ve Trafik Işığı Veriseti
 
-YOLO için uygun formattaki etiketler 'labels' klasörü içerisindedir. Etiketler aşağıdaki şekildedir:
+YOLO için uygun formattaki etiketler 'labels' klasörü içerisindedir. 
+
+### Etiketler:
 
 0. yaya_gecidi_T11 32
 1. kasisli_yol 38
