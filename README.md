@@ -65,6 +65,8 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 | UludagOTAGG                 |   500   | 1222 |
 | AKÜ Bilgisayar Mühendisliği |   510   | 597 |
 | VoltaTeam                   |   593   | 1103 |
+| ISA REVO                    |   500   | 500 |
+
 
 ![ITU Racing Driverless](https://avatars0.githubusercontent.com/u/60224556?s=200&v=4 "ITU Racing Driverless")
 <!---
@@ -94,6 +96,8 @@ Daha önce PR yapmamış iseniz lütfen [tıklayın](https://youtu.be/N_qEmSRsFl
 <img src="https://i.ibb.co/6m8p1MN/hktech-square.png" width="200" height='200'>
 <img src="https://i.ibb.co/6cnSymf1/otagg-Logo.png" width="200" height='200'>
 <img src="https://i.ibb.co/Qj1dscdD/Volta-TEAM-b.png" width="200" height='200'>
+<img src="https://i.hizliresim.com/fpp4571.jpeg" width="200" height='200'>
+
 ## Lisans
 Lisans metni: https://github.com/ituracingdriverless/TTVS/blob/master/cla.md
 
