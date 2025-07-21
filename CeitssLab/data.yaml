@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 72
+names: ['20 hiz siniri', '30 hiz siniri', '50 hiz siniri', '60 hiz siniri', '70 hiz siniri', '80 hiz siniri', '90 hiz siniri', 'No image augmentation techniques were applied-', 'ana yol tali yol kavsagi', 'arac giremez', 'dikkat', 'donel kavsak', 'dur', 'durak', 'duraklamak ve park etmek yasaktir', 'dusuk banket', 'eczane', 'eds', 'ehli hayvan gecebilir', 'gevsek sev', 'girisi olmayan yol', 'gizli buzlanma', 'hastane', 'her iki yandan gidiniz', 'hiz tumsegi', 'iki taraftan daralan kaplama', 'iki yonlu trafik', 'iki yonlu yol', 'ileri cikmaz yol', 'ileri mecburi yon', 'ileri ve sola mecburi yon', 'isikli isaret cihazi', 'jandarma', 'kamyon giremez', 'kasisli yol', 'kaygan yol', 'kopru basi levhasi', 'motosiklet giremez', 'okul gecidi', 'onceligi olan yon', 'ondeki tasiti gecmek yasaktir', 'park etmek yasaktir', 'park yeri', 'refuj basi ek levhasi', 'saga donulmez', 'saga mecburi yon', 'saga tehlikeli viraj', 'saga ve sola mecburi yon', 'sagdan ana yola giris', 'sagdan daralan kaplama', 'sagdan gidiniz', 'serit duzenleme levhalari', 'sola donulmez', 'sola mecburi yon', 'sola tehlikeli devamli viraj', 'sola tehlikeli viraj', 'soldan gidiniz', 'tali yol', 'tehlikeli viraj', 'trafik elektronik denetleme', 'tramvay hatti ile olusan kavsak', 'tunel', 'u donusu levhasi', 'u donusu yapilmaz', 'undefined', 'ust gecit', 'vahsi hayvan cikabilir', 'yagis paneli yagmur levhasi', 'yaya gecidi', 'yol ver', 'yolda calisma', 'yuksekligi metreden fazla olan arac giremez']
+
+roboflow:
+  workspace: ymca57
+  project: ttvsomu
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ymca57/ttvsomu/dataset/1
