@@ -1,8 +1,8 @@
-0.dur
-1.durak
-10.mecburiYon
-11.hizSiniri50
-12.yayaCikabilir
+0.dur  
+1.durak  
+10.mecburiYon  
+11.hizSiniri50  
+12.yayaCikabilir  
 13.anaYolSonu
 14.kayganYol
 15.isikliIsaretCihazi
